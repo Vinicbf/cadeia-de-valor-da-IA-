@@ -1,0 +1,415 @@
+org,camada,n,pct
+AMD,Infra Física,649,11.257588898525585
+AMD,Chips & Hardware,4126,71.56981786643539
+AMD,Cloud & Compute,352,6.105810928013876
+AMD,Modelos de IA,102,1.7692974848222032
+AMD,Software & Aplicação,536,9.297484822202948
+ASML,Infra Física,3,0.060471679096956256
+ASML,Chips & Hardware,4810,96.95625881878654
+ASML,Modelos de IA,48,0.9675468655513001
+ASML,Software & Aplicação,100,2.0157226365652083
+AT&T,Infra Física,194,2.849170215890733
+AT&T,Chips & Hardware,419,6.15362020854751
+AT&T,Cloud & Compute,2920,42.88441768247907
+AT&T,Modelos de IA,447,6.564840652078131
+AT&T,Software & Aplicação,2829,41.547951241004554
+Accenture,Infra Física,46,1.7926734216679656
+Accenture,Chips & Hardware,9,0.35074045206547155
+Accenture,Cloud & Compute,425,16.56274356975838
+Accenture,Modelos de IA,733,28.565861262665628
+Accenture,Software & Aplicação,1353,52.727981293842554
+Adobe,Infra Física,11,0.19583407512907247
+Adobe,Chips & Hardware,9,0.16022787965105928
+Adobe,Cloud & Compute,453,8.064803275769984
+Adobe,Modelos de IA,1101,19.601210610646252
+Adobe,Software & Aplicação,4043,71.97792415880363
+Amazon,Infra Física,598,4.744902007458542
+Amazon,Chips & Hardware,266,2.1106085852574785
+Amazon,Cloud & Compute,4695,37.25303499166865
+Amazon,Modelos de IA,1499,11.893993493612632
+Amazon,Software & Aplicação,5545,43.997460922002695
+Apple,Infra Física,1910,17.875526438933083
+Apple,Chips & Hardware,651,6.092653252222742
+Apple,Cloud & Compute,2045,19.138979878334116
+Apple,Modelos de IA,501,4.688816097332709
+Apple,Software & Aplicação,5578,52.20402433317736
+Applied Materials,Infra Física,26,0.3487592219986586
+Applied Materials,Chips & Hardware,6900,92.5553319919517
+Applied Materials,Cloud & Compute,11,0.14755197853789404
+Applied Materials,Modelos de IA,153,2.0523138832997985
+Applied Materials,Software & Aplicação,365,4.896042924211938
+BOE,Infra Física,182,7.171000788022066
+BOE,Chips & Hardware,806,31.757289204097717
+BOE,Cloud & Compute,92,3.6249014972419227
+BOE,Modelos de IA,136,5.358550039401103
+BOE,Software & Aplicação,1322,52.08825847123719
+Baidu,Infra Física,367,12.444896575110207
+Baidu,Chips & Hardware,61,2.068497795863004
+Baidu,Cloud & Compute,282,9.562563580874874
+Baidu,Modelos de IA,762,25.839267548321466
+Baidu,Software & Aplicação,1477,50.08477449983045
+Bank of America,Infra Física,20,0.6121824303642486
+Bank of America,Chips & Hardware,8,0.24487297214569942
+Bank of America,Cloud & Compute,929,28.435873890419344
+Bank of America,Modelos de IA,902,27.609427609427613
+Bank of America,Software & Aplicação,1408,43.09764309764309
+Base total,Infra Física,121060,10.256775224456979
+Base total,Chips & Hardware,357440,30.28400575111434
+Base total,Cloud & Compute,192010,16.267994472558932
+Base total,Modelos de IA,94670,8.020889728228498
+Base total,Software & Aplicação,415113,35.17033482364125
+BlackBerry,Infra Física,200,8.413967185527977
+BlackBerry,Chips & Hardware,15,0.6310475389145982
+BlackBerry,Cloud & Compute,1058,44.50988641144299
+BlackBerry,Modelos de IA,35,1.472444257467396
+BlackBerry,Software & Aplicação,1069,44.97265460664703
+Boeing,Infra Física,282,12.406511218653762
+Boeing,Chips & Hardware,138,6.071271447426309
+Boeing,Cloud & Compute,317,13.9463264408271
+Boeing,Modelos de IA,237,10.426748790145183
+Boeing,Software & Aplicação,1299,57.14914210294765
+Bosch,Infra Física,700,25.547445255474454
+Bosch,Chips & Hardware,368,13.43065693430657
+Bosch,Cloud & Compute,211,7.700729927007299
+Bosch,Modelos de IA,456,16.642335766423358
+Bosch,Software & Aplicação,1005,36.67883211678832
+Broadcom,Infra Física,375,19.290123456790123
+Broadcom,Chips & Hardware,656,33.744855967078195
+Broadcom,Cloud & Compute,570,29.32098765432099
+Broadcom,Modelos de IA,18,0.9259259259259258
+Broadcom,Software & Aplicação,325,16.718106995884774
+Canon,Infra Física,1234,8.100833716273879
+Canon,Chips & Hardware,4271,28.037812643602706
+Canon,Cloud & Compute,955,6.269283791767872
+Canon,Modelos de IA,435,2.855642355412591
+Canon,Software & Aplicação,8338,54.73642749294295
+Capital One,Infra Física,54,1.2702893436838392
+Capital One,Chips & Hardware,77,1.811338508586215
+Capital One,Cloud & Compute,802,18.8661491413785
+Capital One,Modelos de IA,1444,33.96847800517525
+Capital One,Software & Aplicação,1874,44.0837450011762
+Cisco,Infra Física,338,6.785785986749648
+Cisco,Chips & Hardware,115,2.308773338687011
+Cisco,Cloud & Compute,3179,63.82252559726962
+Cisco,Modelos de IA,567,11.383256374222043
+Cisco,Software & Aplicação,782,15.699658703071673
+Dell,Infra Física,1725,35.55967841682127
+Dell,Chips & Hardware,175,3.6075036075036073
+Dell,Cloud & Compute,1535,31.642960214388786
+Dell,Modelos de IA,538,11.09049680478252
+Dell,Software & Aplicação,878,18.099360956503812
+Denso,Infra Física,796,28.097423226261913
+Denso,Chips & Hardware,937,33.07447935051183
+Denso,Cloud & Compute,168,5.930109424638193
+Denso,Modelos de IA,76,2.6826685492410873
+Denso,Software & Aplicação,856,30.215319449346982
+EMC,Infra Física,199,5.3885729759003524
+EMC,Chips & Hardware,42,1.1372867587327375
+EMC,Cloud & Compute,2454,66.45004061738425
+EMC,Modelos de IA,527,14.270240996479828
+EMC,Software & Aplicação,471,12.753858651502844
+ETRI,Infra Física,204,7.680722891566265
+ETRI,Chips & Hardware,431,16.227409638554217
+ETRI,Cloud & Compute,453,17.055722891566266
+ETRI,Modelos de IA,371,13.968373493975902
+ETRI,Software & Aplicação,1197,45.06777108433735
+Ericsson,Infra Física,187,6.654804270462633
+Ericsson,Chips & Hardware,111,3.9501779359430604
+Ericsson,Cloud & Compute,1871,66.58362989323844
+Ericsson,Modelos de IA,175,6.227758007117438
+Ericsson,Software & Aplicação,466,16.583629893238435
+Ford,Infra Física,640,25.236593059936908
+Ford,Chips & Hardware,85,3.3517350157728707
+Ford,Cloud & Compute,318,12.53943217665615
+Ford,Modelos de IA,284,11.198738170347003
+Ford,Software & Aplicação,1209,47.67350157728706
+Fujifilm,Infra Física,147,2.6339365705070774
+Fujifilm,Chips & Hardware,1376,24.65507973481455
+Fujifilm,Cloud & Compute,262,4.694499193692887
+Fujifilm,Modelos de IA,192,3.4402436839276116
+Fujifilm,Software & Aplicação,3604,64.57624081705788
+Fujitsu,Infra Física,1121,9.64549991395629
+Fujitsu,Chips & Hardware,5340,45.94734124935467
+Fujitsu,Cloud & Compute,1365,11.74496644295302
+Fujitsu,Modelos de IA,578,4.973326449836517
+Fujitsu,Software & Aplicação,3218,27.6888659438995
+GE,Infra Física,1290,26.774595267745955
+GE,Chips & Hardware,897,18.617683686176836
+GE,Cloud & Compute,258,5.354919053549191
+GE,Modelos de IA,296,6.143628061436281
+GE,Software & Aplicação,2077,43.10917393109174
+General Motors,Infra Física,512,20.94069529652352
+General Motors,Chips & Hardware,113,4.621676891615542
+General Motors,Cloud & Compute,314,12.842535787321063
+General Motors,Modelos de IA,253,10.34764826175869
+General Motors,Software & Aplicação,1253,51.24744376278119
+GlobalFoundries,Infra Física,53,1.4640883977900552
+GlobalFoundries,Chips & Hardware,3433,94.83425414364642
+GlobalFoundries,Cloud & Compute,56,1.5469613259668509
+GlobalFoundries,Modelos de IA,18,0.49723756906077343
+GlobalFoundries,Software & Aplicação,60,1.6574585635359116
+Google,Infra Física,795,4.554568891435118
+Google,Chips & Hardware,521,2.984818103695216
+Google,Cloud & Compute,3907,22.38327126897737
+Google,Modelos de IA,2533,14.511601260383845
+Google,Software & Aplicação,9699,55.56574047550845
+HP,Infra Física,1046,16.38214565387627
+HP,Chips & Hardware,1144,17.916992952231794
+HP,Cloud & Compute,1541,24.13469068128426
+HP,Modelos de IA,177,2.772122161315583
+HP,Software & Aplicação,2477,38.79404855129209
+Hitachi,Infra Física,1664,12.85239823897428
+Hitachi,Chips & Hardware,5808,44.85981308411215
+Hitachi,Cloud & Compute,1675,12.937360006179038
+Hitachi,Modelos de IA,533,4.116783810921449
+Hitachi,Software & Aplicação,3267,25.233644859813083
+Hon Hai,Infra Física,749,39.21465968586387
+Hon Hai,Chips & Hardware,558,29.214659685863875
+Hon Hai,Cloud & Compute,66,3.4554973821989527
+Hon Hai,Modelos de IA,48,2.513089005235602
+Hon Hai,Software & Aplicação,489,25.602094240837697
+Honda,Infra Física,632,24.81350608559089
+Honda,Chips & Hardware,61,2.3949744797801333
+Honda,Cloud & Compute,133,5.221829603455045
+Honda,Modelos de IA,217,8.519827247742443
+Honda,Software & Aplicação,1504,59.04986258343149
+Honeywell,Infra Física,263,10.944652517686224
+Honeywell,Chips & Hardware,521,21.681231793591344
+Honeywell,Cloud & Compute,398,16.562630045776114
+Honeywell,Modelos de IA,178,7.4074074074074066
+Honeywell,Software & Aplicação,1043,43.40407823553891
+Huawei,Infra Física,825,15.73526606904444
+Huawei,Chips & Hardware,263,5.016212092313561
+Huawei,Cloud & Compute,2360,45.01239748235743
+Huawei,Modelos de IA,445,8.487507152393668
+Huawei,Software & Aplicação,1350,25.748617203890902
+IBM,Infra Física,3613,5.392537313432836
+IBM,Chips & Hardware,17912,26.734328358208952
+IBM,Cloud & Compute,17145,25.589552238805968
+IBM,Modelos de IA,7823,11.676119402985075
+IBM,Software & Aplicação,20507,30.607462686567168
+Infineon,Infra Física,236,4.135272472402312
+Infineon,Chips & Hardware,5263,92.22008060276853
+Infineon,Cloud & Compute,53,0.9286840721920449
+Infineon,Modelos de IA,46,0.8060276852987559
+Infineon,Software & Aplicação,109,1.9099351673383564
+Intel,Infra Física,4303,18.61481225125454
+Intel,Chips & Hardware,8696,37.61896521889601
+Intel,Cloud & Compute,4213,18.225471534867623
+Intel,Modelos de IA,1364,5.900674857241738
+Intel,Software & Aplicação,4540,19.640076137740092
+Kioxia,Infra Física,310,12.238452427951046
+Kioxia,Chips & Hardware,2086,82.35294117647058
+Kioxia,Cloud & Compute,63,2.487169364390051
+Kioxia,Modelos de IA,35,1.381760757994473
+Kioxia,Software & Aplicação,39,1.5396762731938411
+LG Electronics,Infra Física,867,21.620947630922693
+LG Electronics,Chips & Hardware,203,5.062344139650873
+LG Electronics,Cloud & Compute,745,18.5785536159601
+LG Electronics,Modelos de IA,393,9.800498753117207
+LG Electronics,Software & Aplicação,1802,44.93765586034913
+Lam Research,Infra Física,9,0.44031311154598823
+Lam Research,Chips & Hardware,2010,98.33659491193738
+Lam Research,Cloud & Compute,5,0.2446183953033268
+Lam Research,Modelos de IA,9,0.44031311154598823
+Lam Research,Software & Aplicação,11,0.538160469667319
+Meta,Infra Física,189,2.68161180476731
+Meta,Chips & Hardware,181,2.568104426787741
+Meta,Cloud & Compute,1905,27.02894438138479
+Meta,Modelos de IA,812,11.52099886492622
+Meta,Software & Aplicação,3961,56.20034052213394
+Micron,Infra Física,1143,5.9739716719803475
+Micron,Chips & Hardware,16887,88.26111953169917
+Micron,Cloud & Compute,369,1.9286050279621596
+Micron,Modelos de IA,401,2.0958553284900434
+Micron,Software & Aplicação,333,1.7404484398682905
+Microsoft,Infra Física,1052,4.224051395302149
+Microsoft,Chips & Hardware,332,1.3330656494679782
+Microsoft,Cloud & Compute,7469,29.989961855049184
+Microsoft,Modelos de IA,2760,11.08211202569765
+Microsoft,Software & Aplicação,13292,53.37080907448304
+Mitsubishi Electric,Infra Física,1140,14.921465968586386
+Mitsubishi Electric,Chips & Hardware,4318,56.51832460732984
+Mitsubishi Electric,Cloud & Compute,243,3.180628272251309
+Mitsubishi Electric,Modelos de IA,356,4.659685863874346
+Mitsubishi Electric,Software & Aplicação,1583,20.719895287958114
+Motorola,Infra Física,522,14.058712631295448
+Motorola,Chips & Hardware,1976,53.21842176137894
+Motorola,Cloud & Compute,323,8.699165095610018
+Motorola,Modelos de IA,148,3.9859951521680577
+Motorola,Software & Aplicação,744,20.037705359547537
+NEC,Infra Física,583,6.0558844915342265
+NEC,Chips & Hardware,3863,40.12672691388802
+NEC,Cloud & Compute,903,9.37986911810533
+NEC,Modelos de IA,756,7.852913680274229
+NEC,Software & Aplicação,3522,36.5846057961982
+NVIDIA,Infra Física,346,9.364005412719893
+NVIDIA,Chips & Hardware,326,8.822733423545332
+NVIDIA,Cloud & Compute,348,9.418132611637347
+NVIDIA,Modelos de IA,562,15.209742895805142
+NVIDIA,Software & Aplicação,2113,57.18538565629229
+Nikon,Infra Física,13,0.41720154043645696
+Nikon,Chips & Hardware,2700,86.64955070603338
+Nikon,Cloud & Compute,3,0.09627727856225932
+Nikon,Modelos de IA,6,0.19255455712451863
+Nikon,Software & Aplicação,394,12.644415917843387
+Nokia,Infra Física,242,8.259385665529011
+Nokia,Chips & Hardware,91,3.10580204778157
+Nokia,Cloud & Compute,1333,45.49488054607508
+Nokia,Modelos de IA,226,7.713310580204778
+Nokia,Software & Aplicação,1038,35.42662116040955
+Oracle,Infra Física,237,4.138292299633315
+Oracle,Chips & Hardware,175,3.0557010651300858
+Oracle,Cloud & Compute,2753,48.070543041732144
+Oracle,Modelos de IA,700,12.222804260520343
+Oracle,Software & Aplicação,1862,32.512659332984114
+Panasonic,Infra Física,1244,19.827861013707363
+Panasonic,Chips & Hardware,1677,26.72935926043991
+Panasonic,Cloud & Compute,553,8.81415364998406
+Panasonic,Modelos de IA,194,3.0921262352566146
+Panasonic,Software & Aplicação,2606,41.53649984061205
+Philips,Infra Física,296,6.4083134877679155
+Philips,Chips & Hardware,1029,22.277549253085084
+Philips,Cloud & Compute,172,3.7237497293786532
+Philips,Modelos de IA,276,5.9753193331890015
+Philips,Software & Aplicação,2846,61.61506819657935
+Qualcomm,Infra Física,1313,18.02828504737059
+Qualcomm,Chips & Hardware,1607,22.065083070163393
+Qualcomm,Cloud & Compute,1450,19.90937800356996
+Qualcomm,Modelos de IA,610,8.375669367019086
+Qualcomm,Software & Aplicação,2303,31.62158451187697
+Red Hat,Infra Física,80,3.6101083032490973
+Red Hat,Chips & Hardware,4,0.18050541516245489
+Red Hat,Cloud & Compute,1832,82.67148014440433
+Red Hat,Modelos de IA,106,4.783393501805054
+Red Hat,Software & Aplicação,194,8.754512635379061
+Renesas,Infra Física,337,6.711810396335391
+Renesas,Chips & Hardware,4445,88.52818163712408
+Renesas,Cloud & Compute,78,1.5534754033061144
+Renesas,Modelos de IA,18,0.35849432383987256
+Renesas,Software & Aplicação,143,2.848038239394543
+Ricoh,Infra Física,295,8.326277166243298
+Ricoh,Chips & Hardware,218,6.152977702511995
+Ricoh,Cloud & Compute,651,18.374259102455547
+Ricoh,Modelos de IA,139,3.923228902060401
+Ricoh,Software & Aplicação,2240,63.22325712672876
+SAP,Infra Física,28,0.6302048165653837
+SAP,Chips & Hardware,8,0.18005851901868106
+SAP,Cloud & Compute,1378,31.015079900967812
+SAP,Modelos de IA,584,13.144271888363718
+SAP,Software & Aplicação,2445,55.0303848750844
+SK Hynix,Infra Física,530,6.834300451321727
+SK Hynix,Chips & Hardware,6929,89.34880722114764
+SK Hynix,Cloud & Compute,53,0.6834300451321728
+SK Hynix,Modelos de IA,149,1.9213410702772407
+SK Hynix,Software & Aplicação,94,1.2121212121212122
+STATS ChipPAC,Chips & Hardware,1691,99.94089834515366
+STATS ChipPAC,Software & Aplicação,1,0.0591016548463357
+STMicroelectronics,Infra Física,247,7.697101900903708
+STMicroelectronics,Chips & Hardware,2421,75.44406357120599
+STMicroelectronics,Cloud & Compute,67,2.0878778435649736
+STMicroelectronics,Modelos de IA,114,3.552508569647865
+STMicroelectronics,Software & Aplicação,360,11.21844811467747
+Salesforce,Infra Física,11,0.38167938931297707
+Salesforce,Chips & Hardware,7,0.24288688410825815
+Salesforce,Cloud & Compute,1167,40.492713393476755
+Salesforce,Modelos de IA,529,18.355308813324083
+Salesforce,Software & Aplicação,1168,40.527411519777935
+Samsung,Infra Física,4201,11.733981341824478
+Samsung,Chips & Hardware,16586,46.32702083682476
+Samsung,Cloud & Compute,3042,8.49673202614379
+Samsung,Modelos de IA,2159,6.030389363722697
+Samsung,Software & Aplicação,9814,27.411876431484274
+SanDisk,Infra Física,172,6.307297396406307
+SanDisk,Chips & Hardware,2444,89.62229556288962
+SanDisk,Cloud & Compute,41,1.5034836817015034
+SanDisk,Modelos de IA,49,1.796846351301797
+SanDisk,Software & Aplicação,21,0.77007700770077
+Seiko Epson,Infra Física,325,9.908536585365853
+Seiko Epson,Chips & Hardware,1393,42.46951219512195
+Seiko Epson,Cloud & Compute,189,5.76219512195122
+Seiko Epson,Modelos de IA,61,1.8597560975609755
+Seiko Epson,Software & Aplicação,1312,40.0
+Semiconductor Energy Lab,Infra Física,358,8.963445167751626
+Semiconductor Energy Lab,Chips & Hardware,3343,83.70055082623936
+Semiconductor Energy Lab,Cloud & Compute,3,0.07511266900350526
+Semiconductor Energy Lab,Modelos de IA,112,2.8042063094641962
+Semiconductor Energy Lab,Software & Aplicação,178,4.456685027541312
+Sharp,Infra Física,247,7.675574891236793
+Sharp,Chips & Hardware,1623,50.435052827843386
+Sharp,Cloud & Compute,181,5.62461155997514
+Sharp,Modelos de IA,38,1.1808576755748912
+Sharp,Software & Aplicação,1129,35.083903045369794
+Shin-Etsu,Infra Física,6,0.3058103975535168
+Shin-Etsu,Chips & Hardware,1953,99.54128440366972
+Shin-Etsu,Software & Aplicação,3,0.1529051987767584
+Siemens,Infra Física,1034,13.047318611987382
+Siemens,Chips & Hardware,1160,14.637223974763408
+Siemens,Cloud & Compute,622,7.848580441640378
+Siemens,Modelos de IA,775,9.779179810725552
+Siemens,Software & Aplicação,4334,54.68769716088329
+Snap,Infra Física,115,4.050722085241283
+Snap,Chips & Hardware,17,0.5988023952095809
+Snap,Cloud & Compute,469,16.51990137372314
+Snap,Modelos de IA,311,10.954561465304685
+Snap,Software & Aplicação,1927,67.87601268052131
+Sony,Infra Física,1139,7.8185063152114225
+Sony,Chips & Hardware,2710,18.60241625480505
+Sony,Cloud & Compute,1920,13.179571663920923
+Sony,Modelos de IA,740,5.079626578802856
+Sony,Software & Aplicação,8059,55.319879187259744
+Sumitomo Electric,Infra Física,467,10.5038236617184
+Sumitomo Electric,Chips & Hardware,2835,63.76518218623482
+Sumitomo Electric,Cloud & Compute,167,3.7561853351327037
+Sumitomo Electric,Modelos de IA,75,1.6869095816464237
+Sumitomo Electric,Software & Aplicação,902,20.287899235267655
+TSMC,Infra Física,95,0.4073756432246998
+TSMC,Chips & Hardware,22770,97.64150943396226
+TSMC,Cloud & Compute,28,0.12006861063464838
+TSMC,Modelos de IA,94,0.40308747855917665
+TSMC,Software & Aplicação,333,1.427958833619211
+Tencent,Infra Física,458,10.191366266132622
+Tencent,Chips & Hardware,295,6.564307966177125
+Tencent,Cloud & Compute,965,21.47307521139297
+Tencent,Modelos de IA,610,13.573653760569648
+Tencent,Software & Aplicação,2166,48.197596795727634
+Texas Instruments,Infra Física,836,11.046511627906977
+Texas Instruments,Chips & Hardware,5669,74.90750528541226
+Texas Instruments,Cloud & Compute,248,3.276955602536998
+Texas Instruments,Modelos de IA,87,1.1495771670190276
+Texas Instruments,Software & Aplicação,728,9.619450317124736
+Tokyo Electron,Infra Física,11,0.16850490196078433
+Tokyo Electron,Chips & Hardware,6338,97.08946078431373
+Tokyo Electron,Cloud & Compute,3,0.04595588235294117
+Tokyo Electron,Modelos de IA,38,0.5821078431372549
+Tokyo Electron,Software & Aplicação,138,2.1139705882352944
+Toshiba,Infra Física,1230,9.073473000885217
+Toshiba,Chips & Hardware,8318,61.36028326940101
+Toshiba,Cloud & Compute,416,3.0687518442018296
+Toshiba,Modelos de IA,347,2.5597521392741225
+Toshiba,Software & Aplicação,3245,23.93773974623783
+Toyota,Infra Física,1468,27.45464746586871
+Toyota,Chips & Hardware,508,9.500654572657565
+Toyota,Cloud & Compute,376,7.031980549841032
+Toyota,Modelos de IA,477,8.920890218814288
+Toyota,Software & Aplicação,2518,47.0918271928184
+VMware,Infra Física,81,2.1634615384615383
+VMware,Chips & Hardware,5,0.13354700854700854
+VMware,Cloud & Compute,3203,85.55021367521367
+VMware,Modelos de IA,184,4.914529914529915
+VMware,Software & Aplicação,271,7.238247863247864
+Verizon,Infra Física,43,1.6666666666666667
+Verizon,Chips & Hardware,2,0.07751937984496124
+Verizon,Cloud & Compute,1303,50.503875968992254
+Verizon,Modelos de IA,286,11.085271317829458
+Verizon,Software & Aplicação,946,36.666666666666664
+Winbond,Infra Física,39,1.0074916042366313
+Winbond,Chips & Hardware,3727,96.28003099974167
+Winbond,Cloud & Compute,1,0.025833118057349523
+Winbond,Modelos de IA,35,0.9041591320072333
+Winbond,Software & Aplicação,69,1.782485145957117
+Xerox,Infra Física,37,1.2798339674852992
+Xerox,Chips & Hardware,316,10.930473884469041
+Xerox,Cloud & Compute,156,5.396056727775856
+Xerox,Modelos de IA,144,4.980975441023867
+Xerox,Software & Aplicação,2238,77.41265997924593

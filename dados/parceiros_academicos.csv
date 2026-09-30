@@ -1,0 +1,1246 @@
+org,parceiro,feitas,recebidas,total
+AMD,industrial technology research institute,130,57,187
+AMD,board of regents the university of texas system,2,106,108
+AMD,commissariat à l energie atomique et aux energies alternatives,9,85,94
+AMD,massachusetts institute of technology,20,35,55
+AMD,interuniversitair micro electronica centrum vzw,9,44,53
+AMD,trustees of columbia university in the city of new york,0,45,45
+AMD,regents of the university of california,36,7,43
+AMD,cornell research foundation,33,6,39
+AMD,ETRI,16,20,36
+AMD,national university of singapore,18,18,36
+AMD,institute of microelectronics,5,18,23
+AMD,university of texas system,15,7,22
+AMD,institute of microelectronics chinese academy of sciences,0,19,19
+AMD,president and fellows of harvard college,8,10,18
+AMD,fraunhofer gesellschaft zur förderung der angewandten forschung ev,4,13,17
+ASML,board of regents the university of texas system,240,4,244
+ASML,regents of the university of minnesota,178,0,178
+ASML,regents of the university of california,108,2,110
+ASML,massachusetts institute of technology,71,6,77
+ASML,president and fellows of harvard college,55,0,55
+ASML,regents of the university of new mexico,33,0,33
+ASML,industrial technology research institute,13,16,29
+ASML,university of central florida,27,0,27
+ASML,fraunhofer gesellschaft zur förderung der angewandten forschung ev,6,7,13
+ASML,max planck gesellschaft zur förderung der wissenschaften ev,13,0,13
+ASML,commissariat à l energie atomique et aux energies alternatives,8,4,12
+ASML,university of south florida,12,0,12
+ASML,ETRI,7,3,10
+ASML,tsinghua university,1,9,10
+ASML,research foundation for the state university of new york,0,10,10
+AT&T,massachusetts institute of technology,67,53,120
+AT&T,university of southern california,26,62,88
+AT&T,industrial technology research institute,37,33,70
+AT&T,california institute of technology,39,18,57
+AT&T,regents of the university of california,33,18,51
+AT&T,ETRI,15,28,43
+AT&T,trustees of columbia university in the city of new york,15,20,35
+AT&T,battelle memorial institute,28,1,29
+AT&T,new jersey institute of technology,27,2,29
+AT&T,carnegie mellon university,23,3,26
+AT&T,research foundation for the state university of new york,0,25,25
+AT&T,board of trustees of the leland stanford junior university,18,3,21
+AT&T,regents of the university of minnesota,6,13,19
+AT&T,research foundation of the state university of new york,13,5,18
+AT&T,board of regents the university of texas system,1,16,17
+Accenture,university of south florida,22,0,22
+Accenture,industrial technology research institute,12,5,17
+Accenture,board of trustees of the leland stanford junior university,8,4,12
+Accenture,regents of the university of michigan,9,0,9
+Accenture,university of charlotte city of charlotte,9,0,9
+Accenture,collegenet,8,0,8
+Accenture,research foundation for the state university,0,7,7
+Accenture,carnegie mellon university,1,5,6
+Accenture,curators of the university of missouri,6,0,6
+Accenture,research foundation for the state university of new york,1,5,6
+Accenture,university of british columbia,6,0,6
+Accenture,ETRI,2,3,5
+Accenture,ramot at tel aviv university,5,0,5
+Accenture,united states of america as represented by the secretary of the department of commerce the national institute of standards and technology,5,0,5
+Accenture,board of regents the university of texas system,4,0,4
+Adobe,massachusetts institute of technology,72,4,76
+Adobe,university of washington,51,0,51
+Adobe,ETRI,23,25,48
+Adobe,industrial technology research institute,24,15,39
+Adobe,regents of the university of california,27,10,37
+Adobe,max planck gesellschaft zur förderung der wissenschaften ev,30,3,33
+Adobe,nec research institute,32,0,32
+Adobe,california institute of technology,26,5,31
+Adobe,yissum research development company of the hebrew university of jerusalem,27,3,30
+Adobe,carnegie mellon university,21,5,26
+Adobe,rutgers the state university of new jersey,24,0,24
+Adobe,duke university,11,7,18
+Adobe,board of trustees of the leland stanford junior university,12,4,16
+Adobe,hong kong university of science and technology,15,1,16
+Adobe,board of trustees of the university of illinois,5,10,15
+Amazon,massachusetts institute of technology,742,13,755
+Amazon,ETRI,237,51,288
+Amazon,university of southern california,224,1,225
+Amazon,trustees of boston university,161,0,161
+Amazon,research foundation of the state university of new york,135,3,138
+Amazon,research foundation for the state university of new york,3,111,114
+Amazon,industrial technology research institute,26,44,70
+Amazon,research foundation for the state university,0,51,51
+Amazon,universal electronics,1,37,38
+Amazon,regents of the university of california,27,7,34
+Amazon,university of central florida research foundation,28,4,32
+Amazon,university of washington,24,0,24
+Amazon,singularity university,18,3,21
+Amazon,demand flow institute,18,0,18
+Amazon,purdue research foundation,14,4,18
+Apple,university of delaware,831,0,831
+Apple,industrial technology research institute,482,25,507
+Apple,national cheng kung university,498,0,498
+Apple,regents of the university of california,428,21,449
+Apple,massachusetts institute of technology,362,54,416
+Apple,florida institute for human and machine cognition,328,0,328
+Apple,carnegie mellon university,319,3,322
+Apple,penn state research foundation,270,1,271
+Apple,ETRI,216,35,251
+Apple,king fahd university of petroleum and minerals,225,9,234
+Apple,national institute of advanced industrial science and technology,232,0,232
+Apple,research foundation of state university of ny,231,1,232
+Apple,rensselaer polytechnic institute,203,3,206
+Apple,research foundation of the state university of new york,186,0,186
+Apple,syracuse university,185,0,185
+Applied Materials,cornell research foundation,753,3,756
+Applied Materials,industrial technology research institute,602,29,631
+Applied Materials,regents of the university of california,246,7,253
+Applied Materials,interuniversitair micro electronica centrum vzw,198,12,210
+Applied Materials,penn state research foundation,170,2,172
+Applied Materials,national university corporation nagoya university,121,0,121
+Applied Materials,institute of microelectronics chinese academy of sciences,49,15,64
+Applied Materials,national university,0,53,53
+Applied Materials,president and fellows of harvard college,29,21,50
+Applied Materials,massachusetts institute of technology,29,11,40
+Applied Materials,commissariat à l energie atomique et aux energies alternatives,17,20,37
+Applied Materials,wisconsin alumni research foundation,33,0,33
+Applied Materials,institute of microelectronics,29,3,32
+Applied Materials,korea institute of machinery & materials,30,0,30
+Applied Materials,board of regents the university of texas system,4,22,26
+BOE,research foundation for the state university of new york,5,0,5
+BOE,regents of the university of california,2,2,4
+BOE,board of trustees of the leland stanford junior university,3,0,3
+BOE,board of trustees of the university of illinois,3,0,3
+BOE,carnegie mellon university,3,0,3
+BOE,commissariat à l energie atomique et aux energies alternatives,2,1,3
+BOE,hong kong applied science and technology research institute,2,1,3
+BOE,industrial technology research institute,3,0,3
+BOE,national chiao tung university,3,0,3
+BOE,trustees of columbia university in the city of new york,3,0,3
+BOE,tsinghua university,2,1,3
+BOE,industry university cooperation foundation hanyang university,0,3,3
+BOE,ETRI,1,1,2
+BOE,battelle memorial institute,2,0,2
+BOE,fraunhofer gesellschaft zur förderung der angewandten forschung ev,2,0,2
+Baidu,research foundation for the state university of new york,3,18,21
+Baidu,ETRI,6,8,14
+Baidu,carnegie mellon university,9,0,9
+Baidu,university of southern california,9,0,9
+Baidu,industrial technology research institute,7,1,8
+Baidu,board of trustees of the leland stanford junior university,5,1,6
+Baidu,le commissariat à l énergie atomique et aux énergies alternatives cea,0,5,5
+Baidu,institute of automation chinese academy of sciences,3,1,4
+Baidu,king fahd university of petroleum and minerals,4,0,4
+Baidu,regents of the university of california,2,2,4
+Baidu,inception institute of artificial intelligence,3,0,3
+Baidu,international computer science institute,3,0,3
+Baidu,massachusetts institute of technology,3,0,3
+Baidu,rutgers the state university of new jersey,1,2,3
+Baidu,university of south florida,3,0,3
+Bank of America,ETRI,36,2,38
+Bank of America,honda research institute europe,36,0,36
+Bank of America,university of utah research foundation,35,0,35
+Bank of America,trustees of columbia university in the city of new york,22,0,22
+Bank of America,president and fellows of harvard college,16,0,16
+Bank of America,massachusetts institute of technology,15,0,15
+Bank of America,california institute of technology,11,0,11
+Bank of America,rensselaer polytechnic institute,11,0,11
+Bank of America,research foundation for the state university of new york,5,6,11
+Bank of America,king fahd university of petroleum and minerals,10,0,10
+Bank of America,university of north carolina at chapel hill,10,0,10
+Bank of America,industrial technology research institute,9,0,9
+Bank of America,drexel university,8,0,8
+Bank of America,regents of the university of california,7,1,8
+Bank of America,new york university,7,0,7
+BlackBerry,universal electronics,1,18,19
+BlackBerry,trustees of princeton university,14,0,14
+BlackBerry,board of trustees of the university of illinois,13,0,13
+BlackBerry,universal secure registry,0,9,9
+BlackBerry,ETRI,2,4,6
+BlackBerry,fraunhofer gesellschaft zur förderung der angewandten forschung ev,6,0,6
+BlackBerry,honda research institute europe,4,1,5
+BlackBerry,industrial technology research institute,5,0,5
+BlackBerry,regents of the university of california,5,0,5
+BlackBerry,university of western ontario,5,0,5
+BlackBerry,massachusetts institute of technology,3,1,4
+BlackBerry,research foundation of the state university of new york,4,0,4
+BlackBerry,regents of the university of michigan,1,2,3
+BlackBerry,university of georgia research foundation,3,0,3
+BlackBerry,institute for information technology advancement,0,3,3
+Boeing,massachusetts institute of technology,17,7,24
+Boeing,battelle memorial institute,6,14,20
+Boeing,regents of the university of california,12,5,17
+Boeing,university of british columbia,11,0,11
+Boeing,trustees of columbia university in the city of new york,5,4,9
+Boeing,tsinghua university,8,1,9
+Boeing,research foundation for the state university of new york,0,9,9
+Boeing,ETRI,4,4,8
+Boeing,university of florida research foundation,0,8,8
+Boeing,industrial technology research institute,1,6,7
+Boeing,nec research institute,7,0,7
+Boeing,university of southern california,7,0,7
+Boeing,virginia polytechnic and state university,7,0,7
+Boeing,university of north dakota,5,1,6
+Boeing,board of trustees of the leland stanford junior university,5,0,5
+Bosch,board of trustees of the university of illinois,1,29,30
+Bosch,commissariat à l energie atomique et aux energies alternatives,7,8,15
+Bosch,university of southern california,4,10,14
+Bosch,ETRI,7,6,13
+Bosch,university of hawai i,0,9,9
+Bosch,massachusetts institute of technology,4,4,8
+Bosch,regents of the university of california,4,3,7
+Bosch,honda research institute europe,4,1,5
+Bosch,regents of the university of michigan,3,2,5
+Bosch,research foundation for the state university of new york,5,0,5
+Bosch,research foundation of the state university of new york,5,0,5
+Bosch,wisconsin alumni research foundation,4,1,5
+Bosch,board of trustees of the leland stanford junior university,2,2,4
+Bosch,california institute of technology,3,1,4
+Bosch,midwest research institute,3,1,4
+Broadcom,industrial technology research institute,193,5,198
+Broadcom,massachusetts institute of technology,12,23,35
+Broadcom,fraunhofer gesellschaft zur förderung der angewandten forschung ev,0,16,16
+Broadcom,universal city studios,0,16,16
+Broadcom,ETRI,6,3,9
+Broadcom,research foundation for the state university of new york,0,9,9
+Broadcom,research foundation for the state university,0,6,6
+Broadcom,board of trustees of the university of arkansas,5,0,5
+Broadcom,regents of the university of california,3,2,5
+Broadcom,research foundation for suny,0,5,5
+Broadcom,board of regents of the university of washington,3,0,3
+Broadcom,foundation of soongsil university industry cooperation,2,1,3
+Broadcom,hong kong applied science and technology research institute,2,1,3
+Broadcom,interuniversitair micro electronica centrum vzw,3,0,3
+Broadcom,monash university,3,0,3
+Canon,board of regents the university of texas system,282,23,305
+Canon,commissariat à l energie atomique et aux energies alternatives,26,170,196
+Canon,massachusetts institute of technology,82,58,140
+Canon,regents of the university of california,110,24,134
+Canon,industrial technology research institute,55,59,114
+Canon,university of texas system,89,2,91
+Canon,ETRI,27,57,84
+Canon,university of british columbia,5,73,78
+Canon,board of regents of the university of texas,70,1,71
+Canon,regents of the university of minnesota,53,7,60
+Canon,board of trustees of the university of illinois,10,48,58
+Canon,nec research institute,56,1,57
+Canon,tsinghua university,34,4,38
+Canon,national university of ireland,1,35,36
+Canon,university of southern california,17,19,36
+Capital One,university of tennessee research foundation,54,0,54
+Capital One,trustees of columbia university in the city of new york,31,0,31
+Capital One,university of massachusetts,31,0,31
+Capital One,singularity university,8,0,8
+Capital One,arizona board of regents on behalf of arizona state university,2,5,7
+Capital One,king fahd university of petroleum and minerals,7,0,7
+Capital One,nec research institute,5,0,5
+Capital One,massachusetts institute of technology,3,1,4
+Capital One,southern university of science and technology,0,4,4
+Capital One,catholic university of america,3,0,3
+Capital One,florida international university board of trustees,3,0,3
+Capital One,nbcuniversal media,1,2,3
+Capital One,seoul national university r&db foundation,2,1,3
+Capital One,southern taiwan university,3,0,3
+Capital One,worcester polytechnic institute,0,3,3
+Cisco,ETRI,97,16,113
+Cisco,george mason university,84,0,84
+Cisco,research foundation for the state university of new york,3,51,54
+Cisco,trustees of boston university,48,0,48
+Cisco,massachusetts institute of technology,16,5,21
+Cisco,industrial technology research institute,2,16,18
+Cisco,governing council of the university of toronto,16,0,16
+Cisco,research foundation for the state university,0,16,16
+Cisco,netschools,15,0,15
+Cisco,northwestern university,0,15,15
+Cisco,university of washington through its center for commercialization,14,0,14
+Cisco,washington state university,13,1,14
+Cisco,regents of the university of california,10,3,13
+Cisco,trustees of columbia university in the city of new york,5,6,11
+Cisco,nbcuniversal media,3,4,7
+Dell,research foundation for the state university of new york,1,54,55
+Dell,research foundation for the state university,0,21,21
+Dell,massachusetts institute of technology,9,3,12
+Dell,ETRI,7,2,9
+Dell,industrial technology research institute,7,2,9
+Dell,university of delaware,6,0,6
+Dell,trustees of boston university,3,0,3
+Dell,battelle memorial institute,0,3,3
+Dell,board of trustees of the leland stanford junior university,2,0,2
+Dell,hong kong applied science and technology research institute,1,1,2
+Dell,huazhong university of science and technology,2,0,2
+Dell,joan and irwin jacobs technion cornell institute,2,0,2
+Dell,shanghai jiao tong university,1,1,2
+Dell,tsinghua university,2,0,2
+Dell,academia sinica,0,2,2
+Denso,commissariat à l energie atomique et aux energies alternatives,17,45,62
+Denso,massachusetts institute of technology,12,23,35
+Denso,industrial technology research institute,4,10,14
+Denso,regents of the university of california,14,0,14
+Denso,national institute of advanced industrial science and technology,6,7,13
+Denso,ETRI,5,7,12
+Denso,northwestern university,9,0,9
+Denso,fraunhofer gesellschaft zur förderung der angewandten forschung ev,5,3,8
+Denso,honda research institute europe,4,4,8
+Denso,north carolina state university,8,0,8
+Denso,chubu university educational foundation,7,0,7
+Denso,national university of defense technology,7,0,7
+Denso,board of trustees of the university of illinois,3,2,5
+Denso,china electric power research institute,5,0,5
+Denso,california institute of technology,1,3,4
+EMC,research foundation for the state university of new york,1,20,21
+EMC,ETRI,4,14,18
+EMC,industrial technology research institute,0,7,7
+EMC,massachusetts institute of technology,4,2,6
+EMC,regents of the university of california,4,1,5
+EMC,trustees of columbia university in the city of new york,1,3,4
+EMC,collegenet,3,0,3
+EMC,research foundation for the state university o,1,2,3
+EMC,research foundation of the state university of new york,2,1,3
+EMC,inria institut national de recherche en informatique et en automatique,0,3,3
+EMC,king abdulaziz university,0,3,3
+EMC,board of trustees of the leland stanford junior university,1,1,2
+EMC,university of ottawa,2,0,2
+EMC,hong kong applied science and technology research institute,0,2,2
+EMC,institute for information industry,0,2,2
+ETRI,industrial technology research institute,21,16,37
+ETRI,massachusetts institute of technology,20,8,28
+ETRI,regents of the university of california,16,7,23
+ETRI,board of trustees of the university of illinois,11,4,15
+ETRI,university of north carolina at chapel hill,3,10,13
+ETRI,commissariat à l energie atomique et aux energies alternatives,9,2,11
+ETRI,wisconsin alumni research foundation,11,0,11
+ETRI,korea institute of science and technology,5,5,10
+ETRI,carnegie mellon university,5,4,9
+ETRI,fraunhofer gesellschaft zur förderung der angewandten forschung ev,3,6,9
+ETRI,research foundation for the state university of new york,1,8,9
+ETRI,university of british columbia,3,6,9
+ETRI,university of washington,8,1,9
+ETRI,university of hawai i,0,9,9
+ETRI,seoul national university r&db foundation,2,6,8
+Ericsson,fraunhofer gesellschaft zur förderung der angewandten forschung ev,4,14,18
+Ericsson,ETRI,5,12,17
+Ericsson,industrial technology research institute,0,7,7
+Ericsson,regents of the university of california,1,5,6
+Ericsson,regents of the university of minnesota,0,6,6
+Ericsson,research foundation for the state university of new york,0,6,6
+Ericsson,massachusetts institute of technology,5,0,5
+Ericsson,northwestern university,0,5,5
+Ericsson,research foundation of the state university of new york,4,0,4
+Ericsson,trustees of boston university,4,0,4
+Ericsson,university of washington through its center for commercialization,4,0,4
+Ericsson,wisconsin alumni research foundation,1,3,4
+Ericsson,king fahd university of petroleum and minerals,0,4,4
+Ericsson,trustees of columbia university in the city of new york,0,4,4
+Ericsson,king abdulaziz university,2,1,3
+Ford,industrial technology research institute,14,6,20
+Ford,regents of the university of michigan,8,8,16
+Ford,regents of the university of california,12,0,12
+Ford,massachusetts institute of technology,10,1,11
+Ford,ETRI,8,2,10
+Ford,wisconsin alumni research foundation,8,2,10
+Ford,honda research institute europe,6,2,8
+Ford,king saud university,0,7,7
+Ford,board of trustees of the leland stanford junior university,2,4,6
+Ford,carnegie mellon university,6,0,6
+Ford,seoul national university industry foundation,6,0,6
+Ford,clemson university,5,0,5
+Ford,max planck gesellschaft zur förderung der wissenschaften ev,4,1,5
+Ford,national central university,5,0,5
+Ford,university of chicago,4,0,4
+Fujifilm,university of iowa research foundation,4,58,62
+Fujifilm,massachusetts institute of technology,38,15,53
+Fujifilm,trustees of columbia university in the city of new york,7,28,35
+Fujifilm,regents of the university of california,19,7,26
+Fujifilm,industrial technology research institute,13,10,23
+Fujifilm,ETRI,5,16,21
+Fujifilm,regents of the university of minnesota,15,3,18
+Fujifilm,university of hawai i,0,18,18
+Fujifilm,research foundation of the state university of new york,13,2,15
+Fujifilm,universal city studios,1,12,13
+Fujifilm,university of southern california,5,8,13
+Fujifilm,board of trustees of the leland stanford junior university,8,1,9
+Fujifilm,carnegie mellon university,7,2,9
+Fujifilm,university of pittsburgh of the commonwealth system of higher education,9,0,9
+Fujifilm,university of south florida,9,0,9
+Fujitsu,industrial technology research institute,66,66,132
+Fujitsu,massachusetts institute of technology,31,56,87
+Fujitsu,research foundation for the state university of new york,3,67,70
+Fujitsu,ETRI,24,32,56
+Fujitsu,commissariat à l energie atomique et aux energies alternatives,5,49,54
+Fujitsu,regents of the university of california,23,13,36
+Fujitsu,tsinghua university,13,9,22
+Fujitsu,board of trustees of the leland stanford junior university,4,16,20
+Fujitsu,cornell research foundation,11,9,20
+Fujitsu,university of southern california,4,16,20
+Fujitsu,research foundation for the state university,0,18,18
+Fujitsu,research foundation of the state university of new york,14,1,15
+Fujitsu,california institute of technology,3,11,14
+Fujitsu,carnegie mellon university,13,1,14
+Fujitsu,university of north carolina at charlotte,1,13,14
+GE,wisconsin alumni research foundation,52,29,81
+GE,battelle memorial institute,72,3,75
+GE,massachusetts institute of technology,18,36,54
+GE,regents of the university of michigan,33,14,47
+GE,regents of the university of california,18,25,43
+GE,university of iowa research foundation,33,9,42
+GE,university of rochester,20,22,42
+GE,board of trustees of the leland stanford junior university,20,20,40
+GE,board of trustees of the university of illinois,22,18,40
+GE,ETRI,13,25,38
+GE,industrial technology research institute,6,30,36
+GE,cornell research foundation,34,0,34
+GE,electric power research institute,33,1,34
+GE,washington university,16,11,27
+GE,trustees of columbia university in the city of new york,12,14,26
+General Motors,massachusetts institute of technology,7,11,18
+General Motors,ETRI,2,7,9
+General Motors,industrial technology research institute,4,5,9
+General Motors,university of hawai i,0,9,9
+General Motors,carnegie mellon university,5,2,7
+General Motors,regents of the university of california,4,3,7
+General Motors,regents of the university of michigan,6,1,7
+General Motors,california institute of technology,6,0,6
+General Motors,honda research institute europe,1,5,6
+General Motors,max planck gesellschaft zur förderung der wissenschaften ev,5,1,6
+General Motors,regents of the university of minnesota,6,0,6
+General Motors,research foundation for the state university of new york,1,5,6
+General Motors,indiana university research and technology,0,6,6
+General Motors,commissariat à l energie atomique et aux energies alternatives,3,1,4
+General Motors,national institute of clean and low carbon energy,1,3,4
+GlobalFoundries,industrial technology research institute,43,3,46
+GlobalFoundries,commissariat à l energie atomique et aux energies alternatives,25,12,37
+GlobalFoundries,interuniversitair micro electronica centrum vzw,33,0,33
+GlobalFoundries,institute of microelectronics chinese academy of sciences,9,17,26
+GlobalFoundries,regents of the university of california,22,3,25
+GlobalFoundries,ETRI,13,3,16
+GlobalFoundries,massachusetts institute of technology,13,2,15
+GlobalFoundries,wisconsin alumni research foundation,15,0,15
+GlobalFoundries,cornell research foundation,11,0,11
+GlobalFoundries,national tsing hua university,8,2,10
+GlobalFoundries,institute of microelectronics,9,0,9
+GlobalFoundries,national university of singapore,7,2,9
+GlobalFoundries,national taiwan university,0,7,7
+GlobalFoundries,board of trustees of the university of illinois,5,1,6
+GlobalFoundries,fraunhofer gesellschaft zur förderung der angewandten forschung ev,5,1,6
+Google,massachusetts institute of technology,218,18,236
+Google,regents of the university of california,186,14,200
+Google,new york university,183,5,188
+Google,ETRI,65,96,161
+Google,industrial technology research institute,115,24,139
+Google,university of southern california,122,5,127
+Google,regents of the university of michigan,90,12,102
+Google,carnegie mellon university,72,18,90
+Google,research foundation for the state university of new york,16,74,90
+Google,university of washington,80,6,86
+Google,nec research institute,82,0,82
+Google,university of central florida,73,0,73
+Google,research foundation for the state university,0,71,71
+Google,board of trustees of the university of illinois,56,2,58
+Google,trustees of princeton university,53,0,53
+HP,research foundation for the state university of new york,1,185,186
+HP,massachusetts institute of technology,61,23,84
+HP,industrial technology research institute,20,53,73
+HP,university of north carolina at chapel hill,7,59,66
+HP,research foundation for the state university,0,62,62
+HP,ETRI,11,50,61
+HP,regents of the university of minnesota,44,5,49
+HP,president and fellows of harvard college,6,40,46
+HP,regents of the university of california,20,24,44
+HP,commissariat à l energie atomique et aux energies alternatives,8,30,38
+HP,california institute of technology,16,20,36
+HP,board of trustees of the leland stanford junior university,14,17,31
+HP,research foundation of the state university of new york,20,8,28
+HP,trustees of columbia university in the city of new york,11,16,27
+HP,new york university,6,19,25
+Hitachi,trustees of columbia university in the city of new york,9,154,163
+Hitachi,industrial technology research institute,31,76,107
+Hitachi,ETRI,15,52,67
+Hitachi,massachusetts institute of technology,27,28,55
+Hitachi,research foundation for the state university of new york,0,49,49
+Hitachi,commissariat à l energie atomique et aux energies alternatives,12,33,45
+Hitachi,regents of the university of california,13,21,34
+Hitachi,nec research institute,29,0,29
+Hitachi,university of southern california,3,26,29
+Hitachi,regents of the university of minnesota,23,5,28
+Hitachi,research foundation of the state university of new york,5,23,28
+Hitachi,board of trustees of the leland stanford junior university,6,19,25
+Hitachi,wisconsin alumni research foundation,10,14,24
+Hitachi,board of trustees of the university of illinois,4,19,23
+Hitachi,cornell research foundation,18,2,20
+Hon Hai,board of trustees of the university of illinois,1,72,73
+Hon Hai,purdue research foundation,0,10,10
+Hon Hai,industrial technology research institute,4,5,9
+Hon Hai,trustees of tufts college,0,8,8
+Hon Hai,university of southern california,1,6,7
+Hon Hai,northwestern university,0,6,6
+Hon Hai,ETRI,5,0,5
+Hon Hai,regents of the university of minnesota,5,0,5
+Hon Hai,california institute of technology,0,4,4
+Hon Hai,king fahd university of petroleum and minerals,1,2,3
+Hon Hai,massachusetts institute of technology,3,0,3
+Hon Hai,university college cork national university of ireland cork,0,3,3
+Hon Hai,university of central florida research foundation,0,3,3
+Hon Hai,board of regents the university of texas system,1,1,2
+Hon Hai,nanyang technological university,2,0,2
+Honda,industrial technology research institute,6,32,38
+Honda,massachusetts institute of technology,31,5,36
+Honda,ETRI,5,17,22
+Honda,universal city studios,13,3,16
+Honda,board of trustees of the leland stanford junior university,9,5,14
+Honda,commissariat à l energie atomique et aux energies alternatives,7,7,14
+Honda,carnegie mellon university,8,3,11
+Honda,trustees of columbia university in the city of new york,2,8,10
+Honda,university of delaware,6,4,10
+Honda,university of iowa research foundation,0,9,9
+Honda,board of trustees of the university of illinois,5,1,6
+Honda,rensselaer polytechnic institute,6,0,6
+Honda,university of washington,6,0,6
+Honda,university of massachusetts,0,6,6
+Honda,fraunhofer gesellschaft zur förderung der angewandten forschung ev,3,2,5
+Honeywell,regents of the university of california,48,4,52
+Honeywell,massachusetts institute of technology,16,33,49
+Honeywell,board of trustees of the university of illinois,2,33,35
+Honeywell,university of hawai i,0,33,33
+Honeywell,iowa state university research foundation,5,25,30
+Honeywell,industrial technology research institute,18,11,29
+Honeywell,texas a&m university system,26,2,28
+Honeywell,university of washington,24,0,24
+Honeywell,ETRI,14,9,23
+Honeywell,colorado state university research foundation,20,1,21
+Honeywell,battelle memorial institute,4,15,19
+Honeywell,commissariat à l energie atomique et aux energies alternatives,6,13,19
+Honeywell,carnegie mellon university,12,4,16
+Honeywell,new york university,1,12,13
+Honeywell,uwm research foundation,0,13,13
+Huawei,ETRI,8,17,25
+Huawei,industrial technology research institute,8,5,13
+Huawei,massachusetts institute of technology,13,0,13
+Huawei,research foundation for the state university of new york,0,9,9
+Huawei,fraunhofer gesellschaft zur förderung der angewandten forschung ev,5,3,8
+Huawei,regents of the university of california,8,0,8
+Huawei,board of trustees of the university of illinois,6,1,7
+Huawei,university of delaware,5,0,5
+Huawei,arizona board of regents on behalf of arizona state university,2,2,4
+Huawei,hong kong university of science and technology,4,0,4
+Huawei,national taiwan university,4,0,4
+Huawei,regents of the university of michigan,3,1,4
+Huawei,sungkyunkwan university foundation for corporate collaboration of korea,4,0,4
+Huawei,trustees of columbia university in the city of new york,4,0,4
+Huawei,california institute of technology,3,0,3
+IBM,research foundation for the state university of new york,41,936,977
+IBM,massachusetts institute of technology,411,491,902
+IBM,industrial technology research institute,385,258,643
+IBM,commissariat à l energie atomique et aux energies alternatives,170,303,473
+IBM,regents of the university of california,318,107,425
+IBM,ETRI,182,179,361
+IBM,university of southern california,58,279,337
+IBM,research foundation for the state university,4,318,322
+IBM,board of trustees of the university of illinois,77,221,298
+IBM,board of regents the university of texas system,85,162,247
+IBM,cornell research foundation,185,18,203
+IBM,trustees of columbia university in the city of new york,110,90,200
+IBM,board of trustees of the leland stanford junior university,139,54,193
+IBM,president and fellows of harvard college,91,61,152
+IBM,research foundation of the state university of new york,116,34,150
+Infineon,industrial technology research institute,50,37,87
+Infineon,fraunhofer gesellschaft zur förderung der angewandten forschung ev,26,8,34
+Infineon,commissariat à l energie atomique et aux energies alternatives,8,22,30
+Infineon,national institute of advanced industrial science and technology,4,20,24
+Infineon,board of regents the university of texas system,3,20,23
+Infineon,ETRI,12,7,19
+Infineon,regents of the university of california,18,1,19
+Infineon,cornell research foundation,15,2,17
+Infineon,massachusetts institute of technology,12,5,17
+Infineon,interuniversitair micro electronica centrum vzw,10,3,13
+Infineon,board of trustees of the university of illinois,6,5,11
+Infineon,carnegie mellon university,0,10,10
+Infineon,max planck gesellschaft zur förderung der wissenschaften ev,8,0,8
+Infineon,wisconsin alumni research foundation,8,0,8
+Infineon,board of trustees of the leland stanford junior university,7,0,7
+Intel,industrial technology research institute,174,117,291
+Intel,commissariat à l energie atomique et aux energies alternatives,57,143,200
+Intel,massachusetts institute of technology,132,49,181
+Intel,regents of the university of california,107,28,135
+Intel,ETRI,50,71,121
+Intel,research foundation for the state university of new york,15,103,118
+Intel,board of trustees of the university of illinois,9,70,79
+Intel,interuniversitair micro electronica centrum vzw,35,13,48
+Intel,university of north carolina at chapel hill,46,1,47
+Intel,university of washington,38,5,43
+Intel,university of southern california,38,2,40
+Intel,institute of microelectronics,28,8,36
+Intel,board of trustees of the leland stanford junior university,22,12,34
+Intel,purdue research foundation,3,31,34
+Intel,california institute of technology,15,16,31
+Kioxia,industrial technology research institute,13,2,15
+Kioxia,tohoku university,7,1,8
+Kioxia,osaka university,7,0,7
+Kioxia,board of regents the university of texas system,5,0,5
+Kioxia,commissariat à l energie atomique et aux energies alternatives,4,0,4
+Kioxia,korea institute of science and technology,4,0,4
+Kioxia,national institute of advanced industrial science and technology,4,0,4
+Kioxia,institute of microelectronics chinese academy of sciences,1,2,3
+Kioxia,seoul national university r&db foundation,2,1,3
+Kioxia,cornell university,2,0,2
+Kioxia,industry university cooperation foundation hanyang university,1,1,2
+Kioxia,keio university,2,0,2
+Kioxia,national tsing hua university,1,1,2
+Kioxia,ramot at tel aviv university,2,0,2
+Kioxia,regents of the university of california,1,1,2
+LG Electronics,ETRI,17,12,29
+LG Electronics,university of wollongong,17,0,17
+LG Electronics,trustees of columbia university in the city of new york,3,10,13
+LG Electronics,industrial technology research institute,5,7,12
+LG Electronics,xidian university,0,12,12
+LG Electronics,massachusetts institute of technology,8,2,10
+LG Electronics,cornell research foundation,8,0,8
+LG Electronics,regents of the university of california,7,1,8
+LG Electronics,nec research institute,7,0,7
+LG Electronics,korea electronics technology institute,0,5,5
+LG Electronics,korea institute of science and technology,4,0,4
+LG Electronics,carnegie mellon university,2,1,3
+LG Electronics,industry academic cooperation foundation yonsei university,1,2,3
+LG Electronics,national chiao tung university,1,2,3
+LG Electronics,university of maryland,3,0,3
+Lam Research,interuniversitair micro electronica centrum vzw,153,5,158
+Lam Research,regents of the university of california,78,1,79
+Lam Research,ETRI,57,0,57
+Lam Research,industrial technology research institute,42,2,44
+Lam Research,massachusetts institute of technology,32,2,34
+Lam Research,stanford university,27,0,27
+Lam Research,cornell research foundation,23,0,23
+Lam Research,board of trustees of leland stanford junior university,22,0,22
+Lam Research,commissariat à l energie atomique et aux energies alternatives,16,6,22
+Lam Research,board of regents of the university of illinois,18,0,18
+Lam Research,board of regents the university of texas system,2,16,18
+Lam Research,simon fraser university,17,0,17
+Lam Research,board of trustees of the university of illinois,14,1,15
+Lam Research,cornell university,15,0,15
+Lam Research,cnrs centre national de la recherche scientifique,9,4,13
+Meta,research foundation for the state university of new york,2,189,191
+Meta,academy of applied science,56,0,56
+Meta,research foundation for the state university,0,46,46
+Meta,ETRI,30,6,36
+Meta,california institute of technology,33,0,33
+Meta,duke university,29,0,29
+Meta,research foundation of the state university of new york,0,29,29
+Meta,new york university,23,0,23
+Meta,university of southern california,21,0,21
+Meta,vanderbilt university,21,0,21
+Meta,carnegie mellon university,15,2,17
+Meta,massachusetts institute of technology,16,0,16
+Meta,max planck gesellschaft zur förderung der wissenschaften ev,15,0,15
+Meta,board of trustees of the leland stanford junior university,14,0,14
+Meta,universiteit gent,14,0,14
+Micron,industrial technology research institute,628,101,729
+Micron,regents of the university of california,416,17,433
+Micron,north carolina state university,245,4,249
+Micron,commissariat à l energie atomique et aux energies alternatives,169,65,234
+Micron,cornell research foundation,190,7,197
+Micron,massachusetts institute of technology,131,42,173
+Micron,wisconsin alumni research foundation,159,14,173
+Micron,ETRI,135,27,162
+Micron,president and fellows of harvard college,108,34,142
+Micron,arizona board of regents,136,0,136
+Micron,interuniversitair micro electronica centrum vzw,112,24,136
+Micron,regents of the university of new mexico,108,0,108
+Micron,board of trustees of the university of illinois,57,42,99
+Micron,university of massachusetts,97,1,98
+Micron,regents of the university of minnesota,85,0,85
+Microsoft,massachusetts institute of technology,418,167,585
+Microsoft,ohio state university research foundation,421,1,422
+Microsoft,university of southern california,78,344,422
+Microsoft,trustees of columbia university in the city of new york,311,87,398
+Microsoft,university of washington,297,18,315
+Microsoft,ETRI,144,149,293
+Microsoft,university of north carolina at chapel hill,241,5,246
+Microsoft,industrial technology research institute,97,143,240
+Microsoft,regents of the university of california,189,32,221
+Microsoft,communications research laboratory independent administrative institution,199,0,199
+Microsoft,research foundation for the state university of new york,20,162,182
+Microsoft,carnegie mellon university,124,27,151
+Microsoft,california institute of technology,65,47,112
+Microsoft,board of trustees of the leland stanford junior university,91,20,111
+Microsoft,wisconsin alumni research foundation,91,8,99
+Mitsubishi Electric,trustees of columbia university in the city of new york,12,148,160
+Mitsubishi Electric,industrial technology research institute,28,52,80
+Mitsubishi Electric,massachusetts institute of technology,29,35,64
+Mitsubishi Electric,ETRI,26,25,51
+Mitsubishi Electric,commissariat à l energie atomique et aux energies alternatives,8,37,45
+Mitsubishi Electric,board of trustees of the leland stanford junior university,3,19,22
+Mitsubishi Electric,national university of ireland,0,22,22
+Mitsubishi Electric,regents of the university of california,10,11,21
+Mitsubishi Electric,cornell research foundation,16,2,18
+Mitsubishi Electric,carnegie mellon university,6,11,17
+Mitsubishi Electric,california institute of technology,11,4,15
+Mitsubishi Electric,research foundation of the state university of new york,11,2,13
+Mitsubishi Electric,university of washington,11,2,13
+Mitsubishi Electric,interuniversitair micro electronica centrum vzw,1,11,12
+Mitsubishi Electric,king fahd university of petroleum and minerals,1,11,12
+Motorola,massachusetts institute of technology,41,75,116
+Motorola,industrial technology research institute,23,78,101
+Motorola,regents of the university of california,41,44,85
+Motorola,board of regents the university of texas system,2,62,64
+Motorola,new york university,0,60,60
+Motorola,commissariat à l energie atomique et aux energies alternatives,9,45,54
+Motorola,board of trustees of the university of illinois,3,44,47
+Motorola,ETRI,4,33,37
+Motorola,fraunhofer gesellschaft zur förderung der angewandten forschung ev,0,36,36
+Motorola,california institute of technology,2,31,33
+Motorola,cornell research foundation,22,10,32
+Motorola,carnegie mellon university,4,17,21
+Motorola,board of trustees of the leland stanford junior university,2,12,14
+Motorola,max planck society,14,0,14
+Motorola,university of texas system,4,10,14
+NEC,industrial technology research institute,57,67,124
+NEC,commissariat à l energie atomique et aux energies alternatives,10,69,79
+NEC,massachusetts institute of technology,29,45,74
+NEC,ETRI,27,44,71
+NEC,trustees of columbia university in the city of new york,6,64,70
+NEC,regents of the university of california,24,22,46
+NEC,national institute of clean and low carbon energy,0,32,32
+NEC,tohoku university,0,26,26
+NEC,nec research institute,23,0,23
+NEC,board of trustees of the leland stanford junior university,3,17,20
+NEC,national university of singapore,12,8,20
+NEC,research foundation for the state university of new york,1,19,20
+NEC,institute of microelectronics,12,7,19
+NEC,university of british columbia,19,0,19
+NEC,hong kong polytechnic university,0,19,19
+NVIDIA,ETRI,31,13,44
+NVIDIA,industrial technology research institute,32,9,41
+NVIDIA,research foundation of the state university of new york,38,1,39
+NVIDIA,massachusetts institute of technology,23,0,23
+NVIDIA,chinese university of hong kong,22,0,22
+NVIDIA,university of washington,22,0,22
+NVIDIA,university of north carolina,21,0,21
+NVIDIA,california institute of technology,16,3,19
+NVIDIA,university of north carolina at chapel hill,15,0,15
+NVIDIA,board of trustees of the leland stanford junior university,13,1,14
+NVIDIA,universal city studios,0,14,14
+NVIDIA,regents of the university of california,11,2,13
+NVIDIA,trustees of princeton university,12,0,12
+NVIDIA,max planck gesellschaft zur förderung der wissenschaften ev,11,0,11
+NVIDIA,university of east anglia,9,0,9
+Nikon,university of british columbia,2,173,175
+Nikon,regents of the university of california,52,13,65
+Nikon,massachusetts institute of technology,47,9,56
+Nikon,industrial technology research institute,26,8,34
+Nikon,board of regents the university of texas system,1,29,30
+Nikon,president and fellows of harvard college,14,12,26
+Nikon,university of central florida,2,8,10
+Nikon,tsinghua university,0,10,10
+Nikon,board of trustees of the university of illinois,3,4,7
+Nikon,commissariat à l energie atomique et aux energies alternatives,1,6,7
+Nikon,fraunhofer gesellschaft zur förderung der angewandten forschung ev,1,6,7
+Nikon,ETRI,1,5,6
+Nikon,rochester institute of technology,0,6,6
+Nikon,university health network,0,6,6
+Nikon,osaka university,0,5,5
+Nokia,ETRI,11,13,24
+Nokia,regents of the university of california,9,8,17
+Nokia,industrial technology research institute,6,10,16
+Nokia,fraunhofer gesellschaft zur förderung der angewandten forschung ev,3,11,14
+Nokia,massachusetts institute of technology,6,5,11
+Nokia,trustees of boston university,10,1,11
+Nokia,research foundation for the state university of new york,0,7,7
+Nokia,korea electronics technology institute,1,5,6
+Nokia,university of southern california,6,0,6
+Nokia,board of trustees of the leland stanford junior university,5,0,5
+Nokia,carnegie mellon university,3,2,5
+Nokia,city university of hong kong,2,3,5
+Nokia,university of tulsa,5,0,5
+Nokia,research foundation for the state university,0,5,5
+Nokia,national tsing hua university,3,1,4
+Oracle,research foundation for the state university of new york,3,105,108
+Oracle,massachusetts institute of technology,16,6,22
+Oracle,trustees of columbia university in the city of new york,4,14,18
+Oracle,university of pittsburgh of the commonwealth system of higher education,18,0,18
+Oracle,board of trustees of the leland stanford junior university,15,2,17
+Oracle,ETRI,1,13,14
+Oracle,research foundation for the state university,0,12,12
+Oracle,industrial technology research institute,2,9,11
+Oracle,regents of the university of minnesota,9,2,11
+Oracle,carnegie mellon university,9,0,9
+Oracle,syracuse university,9,0,9
+Oracle,regents of the university of california,8,0,8
+Oracle,purdue research foundation,6,1,7
+Oracle,research foundation for the state university o,0,7,7
+Oracle,california institute of technology,6,0,6
+Panasonic,massachusetts institute of technology,18,49,67
+Panasonic,industrial technology research institute,25,22,47
+Panasonic,regents of the university of california,26,8,34
+Panasonic,fraunhofer gesellschaft zur förderung der angewandten forschung ev,0,31,31
+Panasonic,ETRI,12,14,26
+Panasonic,commissariat à l energie atomique et aux energies alternatives,4,15,19
+Panasonic,national university corporation nara institute of science and technology,14,2,16
+Panasonic,research foundation of the state university of new york,10,3,13
+Panasonic,trustees of columbia university in the city of new york,5,6,11
+Panasonic,national institute of advanced industrial science and technology,4,5,9
+Panasonic,tsinghua university,8,1,9
+Panasonic,university of hawai i,0,9,9
+Panasonic,regents of the university of michigan,5,3,8
+Panasonic,university of houston system,8,0,8
+Panasonic,regents of the university of minnesota,3,4,7
+Philips,massachusetts institute of technology,39,88,127
+Philips,trustees of columbia university in the city of new york,14,72,86
+Philips,university of washington,72,5,77
+Philips,board of trustees of the leland stanford junior university,28,29,57
+Philips,wake forest university health sciences,30,25,55
+Philips,ETRI,11,39,50
+Philips,industrial technology research institute,13,37,50
+Philips,university of iowa research foundation,31,16,47
+Philips,research foundation of the state university of new york,42,0,42
+Philips,regents of the university of michigan,31,10,41
+Philips,wake forest university,41,0,41
+Philips,regents of the university of california,20,19,39
+Philips,university of pittsburgh of the commonwealth system of higher education,8,31,39
+Philips,board of regents the university of texas system,19,19,38
+Philips,research foundation for the state university of new york,6,30,36
+Qualcomm,massachusetts institute of technology,159,23,182
+Qualcomm,ETRI,60,47,107
+Qualcomm,industrial technology research institute,68,38,106
+Qualcomm,board of trustees of the leland stanford junior university,15,44,59
+Qualcomm,california institute of technology,8,49,57
+Qualcomm,regents of the university of california,50,7,57
+Qualcomm,trustees of columbia university in the city of new york,34,8,42
+Qualcomm,fraunhofer gesellschaft zur förderung der angewandten forschung ev,18,23,41
+Qualcomm,commissariat à l energie atomique et aux energies alternatives,31,9,40
+Qualcomm,city university of hong kong,28,3,31
+Qualcomm,university of hawai i,0,27,27
+Qualcomm,university of washington,23,0,23
+Qualcomm,regents of the university of michigan,17,5,22
+Qualcomm,national tsing hua university,11,6,17
+Qualcomm,research foundation for the state university of new york,1,16,17
+Red Hat,research foundation for the state university of new york,26,75,101
+Red Hat,ETRI,11,3,14
+Red Hat,industrial technology research institute,9,1,10
+Red Hat,northwestern university,7,0,7
+Red Hat,board of trustees of the university of illinois,6,0,6
+Red Hat,massachusetts institute of technology,6,0,6
+Red Hat,research foundation for the state university,2,4,6
+Red Hat,illinois institute of technology,4,0,4
+Red Hat,duke university,3,0,3
+Red Hat,syddansk universitet,3,0,3
+Red Hat,california institute of technology,2,0,2
+Red Hat,huazhong university of science and technology,2,0,2
+Red Hat,new york university,2,0,2
+Red Hat,regents of the university of california,2,0,2
+Red Hat,sungkyunkwan university,2,0,2
+Renesas,industrial technology research institute,33,15,48
+Renesas,commissariat à l energie atomique et aux energies alternatives,11,21,32
+Renesas,cornell research foundation,18,0,18
+Renesas,massachusetts institute of technology,15,1,16
+Renesas,industry academic cooperation foundation yonsei university,1,11,12
+Renesas,interuniversitair micro electronica centrum vzw,10,1,11
+Renesas,national institute of advanced industrial science and technology,8,1,9
+Renesas,research foundation for the state university of new york,0,9,9
+Renesas,tohoku university,1,5,6
+Renesas,arizona board of regents on behalf of arizona state university,4,1,5
+Renesas,regents of the university of california,4,1,5
+Renesas,trustees of columbia university in the city of new york,2,3,5
+Renesas,university of notre dame du lac,0,5,5
+Renesas,ETRI,3,1,4
+Renesas,california institute of technology,4,0,4
+Ricoh,university of southern california,4,30,34
+Ricoh,cornell research foundation,23,0,23
+Ricoh,research foundation for the state university of new york,0,22,22
+Ricoh,industrial technology research institute,10,11,21
+Ricoh,board of regents of the university of nebraska,16,0,16
+Ricoh,california institute of technology,12,2,14
+Ricoh,massachusetts institute of technology,10,3,13
+Ricoh,yissum research development company of the hebrew university of jerusalem,12,0,12
+Ricoh,ETRI,4,6,10
+Ricoh,universal city studios,0,10,10
+Ricoh,trustees of columbia university in the city of new york,2,7,9
+Ricoh,university of british columbia,7,0,7
+Ricoh,carnegie mellon university,2,4,6
+Ricoh,utah state university,6,0,6
+Ricoh,national university of ireland,0,6,6
+SAP,demand flow institute,37,0,37
+SAP,ETRI,7,6,13
+SAP,board of trustees of the leland stanford junior university,7,2,9
+SAP,california institute of technology,8,1,9
+SAP,industrial technology research institute,3,5,8
+SAP,trustees of boston university,8,0,8
+SAP,research foundation for the state university of new york,0,8,8
+SAP,collegenet,6,0,6
+SAP,new york university,5,0,5
+SAP,university of chicago,5,0,5
+SAP,carnegie mellon university,4,0,4
+SAP,data capture institute,4,0,4
+SAP,hong kong applied science and technology research institute,1,3,4
+SAP,massachusetts institute of technology,2,2,4
+SAP,trustees of columbia university in the city of new york,2,2,4
+SK Hynix,industrial technology research institute,55,32,87
+SK Hynix,commissariat à l energie atomique et aux energies alternatives,10,29,39
+SK Hynix,b1 institute of image technology,0,35,35
+SK Hynix,yale university,24,1,25
+SK Hynix,regents of the university of california,12,7,19
+SK Hynix,ETRI,9,6,15
+SK Hynix,institute of microelectronics chinese academy of sciences,0,15,15
+SK Hynix,industry academic cooperation foundation yonsei university,7,5,12
+SK Hynix,university of notre dame du lac,0,10,10
+SK Hynix,interuniversitair micro electronica centrum vzw,4,4,8
+SK Hynix,ramot at tel aviv university,2,6,8
+SK Hynix,university of north carolina at charlotte,2,6,8
+SK Hynix,board of regents the university of texas system,5,1,6
+SK Hynix,institute of microelectronics,5,1,6
+SK Hynix,seoul national university r&db foundation,3,3,6
+STATS ChipPAC,industrial technology research institute,74,33,107
+STATS ChipPAC,fraunhofer gesellschaft zur förderung der angewandten forschung ev,29,1,30
+STATS ChipPAC,massachusetts institute of technology,3,14,17
+STATS ChipPAC,universal scientific industrial shanghai,14,1,15
+STATS ChipPAC,interuniversitair micro electronica centrum vzw,13,0,13
+STATS ChipPAC,institute of microelectronics,11,0,11
+STATS ChipPAC,universal global scientific industrial,9,2,11
+STATS ChipPAC,commissariat à l energie atomique et aux energies alternatives,5,4,9
+STATS ChipPAC,cornell research foundation,8,0,8
+STATS ChipPAC,institute of materials research and engineering,8,0,8
+STATS ChipPAC,sandia national laboratory,8,0,8
+STATS ChipPAC,hong kong applied science and technology research institute,4,3,7
+STATS ChipPAC,universal scientific industrial,3,1,4
+STATS ChipPAC,kyushu institute of technology,0,4,4
+STATS ChipPAC,midwest research institute,3,0,3
+STMicroelectronics,commissariat à l energie atomique et aux energies alternatives,23,29,52
+STMicroelectronics,massachusetts institute of technology,25,13,38
+STMicroelectronics,industrial technology research institute,20,11,31
+STMicroelectronics,university of science and technology of china,18,0,18
+STMicroelectronics,ETRI,10,4,14
+STMicroelectronics,regents of the university of california,11,2,13
+STMicroelectronics,california institute of technology,11,1,12
+STMicroelectronics,hong kong applied science and technology research institute,1,11,12
+STMicroelectronics,interuniversitair micro electronica centrum vzw,9,2,11
+STMicroelectronics,university of british columbia,11,0,11
+STMicroelectronics,regents of the university of michigan,6,4,10
+STMicroelectronics,cornell research foundation,8,0,8
+STMicroelectronics,new york university,8,0,8
+STMicroelectronics,universitaet zuerich,8,0,8
+STMicroelectronics,national tsing hua university,5,2,7
+Salesforce,new york university,1107,0,1107
+Salesforce,northwestern university,30,0,30
+Salesforce,regents of the university of california,22,2,24
+Salesforce,ETRI,9,0,9
+Salesforce,research foundation for the state university,0,8,8
+Salesforce,universitaet zuerich,5,0,5
+Salesforce,massachusetts institute of technology,4,0,4
+Salesforce,nanjing university of posts and telecommunications,0,4,4
+Salesforce,board of trustees of the university of illinois,2,1,3
+Salesforce,university of tennessee research foundation,3,0,3
+Salesforce,industrial technology research institute,0,3,3
+Salesforce,brown university,2,0,2
+Salesforce,commissariat à l energie atomique et aux energies alternatives,2,0,2
+Salesforce,hasso plattner institut fuer softwaresystemtechnik,2,0,2
+Salesforce,hong kong polytechnic university,2,0,2
+Samsung,ETRI,277,172,449
+Samsung,industrial technology research institute,283,101,384
+Samsung,regents of the university of california,141,22,163
+Samsung,commissariat à l energie atomique et aux energies alternatives,113,43,156
+Samsung,massachusetts institute of technology,105,18,123
+Samsung,board of trustees of the university of illinois,22,53,75
+Samsung,trustees of columbia university in the city of new york,61,8,69
+Samsung,interuniversitair micro electronica centrum vzw,58,10,68
+Samsung,carnegie mellon university,39,12,51
+Samsung,industry academic cooperation foundation yonsei university,28,23,51
+Samsung,university of southern california,48,2,50
+Samsung,board of trustees of the leland stanford junior university,32,17,49
+Samsung,institute of microelectronics chinese academy of sciences,35,13,48
+Samsung,universal electronics,35,12,47
+Samsung,north carolina state university,40,6,46
+SanDisk,ramot at tel aviv university,57,41,98
+SanDisk,california institute of technology,60,1,61
+SanDisk,regents of the university of california,13,0,13
+SanDisk,commissariat à l energie atomique et aux energies alternatives,9,3,12
+SanDisk,massachusetts institute of technology,2,9,11
+SanDisk,research foundation for the state university of new york,0,11,11
+SanDisk,ETRI,7,3,10
+SanDisk,nanyang technological university,10,0,10
+SanDisk,carnegie mellon university,7,2,9
+SanDisk,industry academic cooperation foundation yonsei university,3,6,9
+SanDisk,industrial technology research institute,6,2,8
+SanDisk,interuniversitair micro electronica centrum vzw,8,0,8
+SanDisk,national tsing hua university,8,0,8
+SanDisk,university of houston system,8,0,8
+SanDisk,regents of the university of minnesota,3,4,7
+Seiko Epson,trustees of columbia university in the city of new york,2,90,92
+Seiko Epson,industrial technology research institute,49,34,83
+Seiko Epson,commissariat à l energie atomique et aux energies alternatives,22,29,51
+Seiko Epson,board of regents the university of texas system,0,25,25
+Seiko Epson,massachusetts institute of technology,21,3,24
+Seiko Epson,regents of the university of california,23,0,23
+Seiko Epson,ETRI,8,9,17
+Seiko Epson,board of trustees of the university of illinois,1,15,16
+Seiko Epson,carnegie mellon university,11,4,15
+Seiko Epson,california institute of technology,1,9,10
+Seiko Epson,national university of ireland,1,9,10
+Seiko Epson,nec research institute,7,0,7
+Seiko Epson,university of notre dame du lac,1,6,7
+Seiko Epson,universal city studios,0,7,7
+Seiko Epson,national institute of advanced industrial science and technology,2,4,6
+Semiconductor Energy Lab,trustees of columbia university in the city of new york,36,505,541
+Semiconductor Energy Lab,tokyo institute of technology,255,3,258
+Semiconductor Energy Lab,commissariat à l energie atomique et aux energies alternatives,138,8,146
+Semiconductor Energy Lab,industrial technology research institute,47,7,54
+Semiconductor Energy Lab,regents of the university of california,48,3,51
+Semiconductor Energy Lab,penn state research foundation,17,17,34
+Semiconductor Energy Lab,hong kong university of science and technology,0,32,32
+Semiconductor Energy Lab,research foundation for the state university of new york,0,32,32
+Semiconductor Energy Lab,president of tokyo university of agriculture & technology,28,0,28
+Semiconductor Energy Lab,president and fellows of harvard college,0,26,26
+Semiconductor Energy Lab,ETRI,7,18,25
+Semiconductor Energy Lab,columbia university,6,14,20
+Semiconductor Energy Lab,research foundation for the state university,0,16,16
+Semiconductor Energy Lab,trustees of columbia in the city of new york,0,16,16
+Semiconductor Energy Lab,massachusetts institute of technology,12,3,15
+Sharp,trustees of columbia university in the city of new york,6,174,180
+Sharp,university of southern california,1,83,84
+Sharp,massachusetts institute of technology,37,44,81
+Sharp,regents of the university of california,20,36,56
+Sharp,commissariat à l energie atomique et aux energies alternatives,9,27,36
+Sharp,industrial technology research institute,15,18,33
+Sharp,national university of ireland,0,32,32
+Sharp,ETRI,9,21,30
+Sharp,research foundation of the state university of new york,14,3,17
+Sharp,board of trustees of the university of illinois,1,13,14
+Sharp,wisconsin alumni research foundation,5,8,13
+Sharp,board of regents the university of texas system,0,13,13
+Sharp,president and fellows of harvard college,0,13,13
+Sharp,penn state research foundation,8,4,12
+Sharp,rensselaer polytechnic institute,9,1,10
+Shin-Etsu,commissariat à l energie atomique et aux energies alternatives,17,39,56
+Shin-Etsu,massachusetts institute of technology,6,37,43
+Shin-Etsu,ETRI,5,9,14
+Shin-Etsu,industrial technology research institute,3,10,13
+Shin-Etsu,industry university cooperation foundation hanyang university,0,13,13
+Shin-Etsu,cornell research foundation,5,5,10
+Shin-Etsu,regents of the university of california,5,3,8
+Shin-Etsu,case western reserve university,2,3,5
+Shin-Etsu,trustees of columbia university in the city of new york,5,0,5
+Shin-Etsu,university of north carolina at charlotte,3,2,5
+Shin-Etsu,regents of the university of michigan,0,5,5
+Shin-Etsu,shanghai institute of microsystem and information technology chinese academy of sciences,0,5,5
+Shin-Etsu,osaka university,0,4,4
+Shin-Etsu,university of queensland,0,4,4
+Shin-Etsu,yale university,0,4,4
+Siemens,research foundation of the state university of new york,96,17,113
+Siemens,board of trustees of the leland stanford junior university,48,41,89
+Siemens,industrial technology research institute,21,58,79
+Siemens,university of iowa research foundation,44,34,78
+Siemens,university of washington,63,10,73
+Siemens,ETRI,15,52,67
+Siemens,regents of the university of california,44,23,67
+Siemens,wisconsin alumni research foundation,41,26,67
+Siemens,massachusetts institute of technology,37,22,59
+Siemens,wake forest university,58,0,58
+Siemens,board of regents the university of texas system,7,48,55
+Siemens,university of south florida,42,5,47
+Siemens,cornell research foundation,36,10,46
+Siemens,research foundation for the state university of new york,6,40,46
+Siemens,university of chicago,42,2,44
+Snap,ramot at tel aviv university,722,0,722
+Snap,industrial technology research institute,359,2,361
+Snap,hong kong university of science and technology,64,0,64
+Snap,carnegie mellon university,16,0,16
+Snap,california institute of technology,14,0,14
+Snap,new york university,11,0,11
+Snap,university of delaware,11,0,11
+Snap,korea institute of science and technology,10,0,10
+Snap,max planck gesellschaft zur förderung der wissenschaften ev,10,0,10
+Snap,industry academic cooperation foundation yonsei university,9,0,9
+Snap,seoul national university r&db foundation,7,1,8
+Snap,kyungpook national university industry academic cooperation foundation,7,0,7
+Snap,florida international university board of trustees,6,0,6
+Snap,research foundation of the state university of new york,6,0,6
+Snap,technische universität münchen,6,0,6
+Sony,trustees of columbia university in the city of new york,40,313,353
+Sony,massachusetts institute of technology,181,28,209
+Sony,regents of the university of california,111,46,157
+Sony,industrial technology research institute,81,72,153
+Sony,ETRI,39,67,106
+Sony,university of southern california,36,65,101
+Sony,commissariat à l energie atomique et aux energies alternatives,32,36,68
+Sony,nec research institute,64,0,64
+Sony,california institute of technology,30,16,46
+Sony,carnegie mellon university,32,12,44
+Sony,fraunhofer gesellschaft zur förderung der angewandten forschung ev,7,24,31
+Sony,university of washington,28,3,31
+Sony,university of hawai i,0,27,27
+Sony,north carolina state university,22,4,26
+Sony,tohoku university,1,23,24
+Sumitomo Electric,trustees of columbia university in the city of new york,0,127,127
+Sumitomo Electric,regents of the university of california,39,83,122
+Sumitomo Electric,industrial technology research institute,32,44,76
+Sumitomo Electric,massachusetts institute of technology,15,38,53
+Sumitomo Electric,ETRI,9,34,43
+Sumitomo Electric,fraunhofer gesellschaft zur förderung der angewandten forschung ev,1,38,39
+Sumitomo Electric,new york university,1,32,33
+Sumitomo Electric,north carolina state university,25,5,30
+Sumitomo Electric,board of regents the university of texas system,1,28,29
+Sumitomo Electric,nec research institute,23,1,24
+Sumitomo Electric,commissariat à l energie atomique et aux energies alternatives,7,13,20
+Sumitomo Electric,university of southern california,0,15,15
+Sumitomo Electric,university of washington,5,9,14
+Sumitomo Electric,national university of ireland,0,14,14
+Sumitomo Electric,national institute of advanced industrial science and technology,5,8,13
+TSMC,industrial technology research institute,391,72,463
+TSMC,regents of the university of california,282,6,288
+TSMC,massachusetts institute of technology,215,44,259
+TSMC,commissariat à l energie atomique et aux energies alternatives,99,38,137
+TSMC,north carolina state university,122,0,122
+TSMC,institute of microelectronics chinese academy of sciences,41,56,97
+TSMC,interuniversitair micro electronica centrum vzw,61,12,73
+TSMC,institute of microelectronics,49,14,63
+TSMC,cornell research foundation,61,0,61
+TSMC,rensselaer polytechnic institute,52,1,53
+TSMC,ETRI,32,10,42
+TSMC,national chiao tung university,31,9,40
+TSMC,national tsing hua university,20,16,36
+TSMC,board of regents the university of texas system,3,32,35
+TSMC,national university of singapore,22,7,29
+Tencent,ETRI,9,0,9
+Tencent,regents of the university of california,9,0,9
+Tencent,massachusetts institute of technology,8,0,8
+Tencent,board of trustees of the leland stanford junior university,6,0,6
+Tencent,california institute of technology,6,0,6
+Tencent,carnegie mellon university,4,2,6
+Tencent,industrial technology research institute,4,2,6
+Tencent,xidian university,0,6,6
+Tencent,board of trustees of the university of illinois,5,0,5
+Tencent,universal electronics,2,3,5
+Tencent,hong kong applied science and technology research institute,3,1,4
+Tencent,institute for information industry,4,0,4
+Tencent,peking university shenzhen graduate school,4,0,4
+Tencent,tsinghua university,3,1,4
+Tencent,universitaet zuerich,4,0,4
+Texas Instruments,industrial technology research institute,90,64,154
+Texas Instruments,research foundation for the state university of new york,2,64,66
+Texas Instruments,trustees of columbia university in the city of new york,0,55,55
+Texas Instruments,board of regents the university of texas system,2,45,47
+Texas Instruments,commissariat à l energie atomique et aux energies alternatives,15,26,41
+Texas Instruments,ETRI,16,18,34
+Texas Instruments,massachusetts institute of technology,6,24,30
+Texas Instruments,regents of the university of california,15,15,30
+Texas Instruments,battelle memorial institute,0,26,26
+Texas Instruments,institute of microelectronics,17,8,25
+Texas Instruments,national university of singapore,10,15,25
+Texas Instruments,interuniversitair micro electronica centrum vzw,13,11,24
+Texas Instruments,board of trustees of the university of illinois,11,8,19
+Texas Instruments,regents of the university of michigan,2,15,17
+Texas Instruments,research foundation of the state university of new york,4,12,16
+Tokyo Electron,industrial technology research institute,18,13,31
+Tokyo Electron,interuniversitair micro electronica centrum vzw,23,7,30
+Tokyo Electron,board of regents the university of texas system,9,16,25
+Tokyo Electron,national university,2,21,23
+Tokyo Electron,research foundation of the state university of new york,21,0,21
+Tokyo Electron,commissariat à l energie atomique et aux energies alternatives,9,9,18
+Tokyo Electron,regents of the university of california,9,9,18
+Tokyo Electron,trustees of columbia university in the city of new york,1,14,15
+Tokyo Electron,ETRI,11,3,14
+Tokyo Electron,stanford university,12,0,12
+Tokyo Electron,president and fellows of harvard college,8,3,11
+Tokyo Electron,massachusetts institute of technology,6,4,10
+Tokyo Electron,kansai research institute,9,0,9
+Tokyo Electron,katholieke universiteit leuven ku leuven r&d,4,3,7
+Tokyo Electron,board of trustees of leland stanford junior university,2,4,6
+Toshiba,industrial technology research institute,63,65,128
+Toshiba,commissariat à l energie atomique et aux energies alternatives,49,67,116
+Toshiba,trustees of columbia university in the city of new york,5,104,109
+Toshiba,massachusetts institute of technology,49,54,103
+Toshiba,regents of the university of california,32,41,73
+Toshiba,ETRI,22,42,64
+Toshiba,wisconsin alumni research foundation,19,32,51
+Toshiba,university of southern california,7,37,44
+Toshiba,national institute of advanced industrial science and technology,7,29,36
+Toshiba,new york university,8,28,36
+Toshiba,wake forest university health sciences,6,26,32
+Toshiba,carnegie mellon university,16,14,30
+Toshiba,board of regents the university of texas system,20,9,29
+Toshiba,board of trustees of the university of illinois,19,10,29
+Toshiba,tohoku university,7,20,27
+Toyota,massachusetts institute of technology,106,73,179
+Toyota,industrial technology research institute,26,8,34
+Toyota,honda research institute europe,20,2,22
+Toyota,regents of the university of california,15,7,22
+Toyota,ETRI,12,6,18
+Toyota,university of delaware,8,8,16
+Toyota,board of trustees of the leland stanford junior university,13,2,15
+Toyota,commissariat à l energie atomique et aux energies alternatives,9,4,13
+Toyota,carnegie mellon university,12,0,12
+Toyota,george washington university,12,0,12
+Toyota,university of maryland,10,0,10
+Toyota,regents of the university of michigan,4,5,9
+Toyota,research foundation for the state university of new york,2,5,7
+Toyota,national institute of clean and low carbon energy,0,7,7
+Toyota,brown university,4,2,6
+VMware,research foundation for the state university of new york,0,189,189
+VMware,research foundation for the state university o,0,49,49
+VMware,industrial technology research institute,12,12,24
+VMware,board of trustees of the leland stanford junior university,7,13,20
+VMware,ETRI,1,13,14
+VMware,george mason research foundation,0,12,12
+VMware,massachusetts institute of technology,4,4,8
+VMware,university of utah research foundation,5,0,5
+VMware,institute for information industry,0,5,5
+VMware,data assurance & communication security center chinese academy of sciences,4,0,4
+VMware,institute of information engineering chinese academy of sciences,4,0,4
+VMware,regents of the university of michigan,4,0,4
+VMware,wisconsin alumni research foundation,0,4,4
+VMware,research foundation of the state university of new york,3,0,3
+VMware,trustees of columbia university in the city of new york,1,2,3
+Verizon,industrial technology research institute,25,0,25
+Verizon,university of illinois at urbana champaign,16,0,16
+Verizon,universal city studios,0,13,13
+Verizon,fraunhofer gesellschaft zur förderung der angewandten forschung ev,12,0,12
+Verizon,massachusetts institute of technology,12,0,12
+Verizon,trustees of columbia university in the city of new york,1,11,12
+Verizon,ETRI,9,2,11
+Verizon,dublin city university,11,0,11
+Verizon,friedrich alexander universität erlangen nürnberg,11,0,11
+Verizon,board of trustees leland stanford jr university,10,0,10
+Verizon,regents of the university of california,10,0,10
+Verizon,atarum institute,8,0,8
+Verizon,research foundation for the state university of new york,2,6,8
+Verizon,carnegie mellon university,7,0,7
+Verizon,university of southern california,1,6,7
+Winbond,industrial technology research institute,108,31,139
+Winbond,ETRI,36,1,37
+Winbond,interuniversitair micro electronica centrum vzw,31,6,37
+Winbond,regents of the university of california,21,6,27
+Winbond,massachusetts institute of technology,22,2,24
+Winbond,commissariat à l energie atomique et aux energies alternatives,5,13,18
+Winbond,cornell research foundation,10,1,11
+Winbond,national university of singapore,3,8,11
+Winbond,institute of microelectronics chinese academy of sciences,5,5,10
+Winbond,cornell university,5,3,8
+Winbond,hong kong applied science and technology research institute,4,4,8
+Winbond,institute of microelectronics,5,3,8
+Winbond,board of trustees of the leland stanford junior university,2,5,7
+Winbond,katholieke universiteit leuven,7,0,7
+Winbond,northwestern university,7,0,7
+Xerox,university of southern california,11,69,80
+Xerox,regents of the university of california,25,49,74
+Xerox,massachusetts institute of technology,41,23,64
+Xerox,board of trustees of the university of illinois,1,48,49
+Xerox,trustees of columbia university in the city of new york,12,32,44
+Xerox,industrial technology research institute,21,17,38
+Xerox,research foundation for the state university,0,33,33
+Xerox,research foundation for the state university of new york,0,33,33
+Xerox,ETRI,3,20,23
+Xerox,hong kong university of science and technology,4,19,23
+Xerox,universal city studios,0,21,21
+Xerox,california institute of technology,7,13,20
+Xerox,university of washington,9,11,20
+Xerox,purdue research foundation,4,14,18
+Xerox,national university of ireland,0,18,18
