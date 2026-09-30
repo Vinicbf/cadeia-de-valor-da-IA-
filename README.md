@@ -6,4 +6,4 @@ Este painel usa patentes como lente para mapear a cadeia de valor da inteligênc
 **Como citar:** use o botão *Cite this repository* (à direita) ou veja o arquivo `CITATION.cff`.
 Licença: CC BY 4.0.
 
-DOI: 10.5281/zenodo.23071792
+DOI: [10.5281/zenodo.23071792](https://doi.org/10.5281/zenodo.23071792) 
