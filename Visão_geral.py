@@ -51,6 +51,13 @@ vínculo com a academia e posição estrutural na rede de citações (PageRank).
 - *Comparar*: até 4 organizações lado a lado
 """)
 
+st.sidebar.markdown("""
+### Como citar
+SOBRENOME, Nome. **Cadeia de valor da IA pela lente das patentes**: painel interativo.
+Versão 1.0. Zenodo, 2026. DOI: [10.5281/zenodo.23071792](https://doi.org/10.5281/zenodo.23071792).
+Disponível em: https://cadeia-ia.streamlit.app/.
+""")
+
 # cabeçalho e KPIs
 st.title("Cadeia de valor da IA pela lente das patentes")
 st.caption(f"Núcleo de {res['nucleo']} organizações que concentram metade das patentes da base · 1976–2025")
