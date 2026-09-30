@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Se usar este painel ou os dados, por favor cite-o como abaixo."
+title: "Cadeia de valor da IA pela lente das patentes: painel interativo"
+authors:
+  - family-names: "FORNARI"
+    given-names: "Vinicius"
+    orcid: "https://orcid.org/0000-0002-5257-6752"
+version: 1.0.0
+date-released: 2026-09-30
+url: "https://cadeia-ia.streamlit.app/"
+repository-code: "https://github.com/Vinicbf/cadeia-de-valor-da-IA-"
+license: CC-BY-4.0
