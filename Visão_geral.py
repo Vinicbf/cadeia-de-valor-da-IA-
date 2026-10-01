@@ -42,13 +42,6 @@ chamamos de **convergência**.
 **Recorte:** {res['patentes']:,} patentes (1976–2025) e as **{res['nucleo']} organizações** que
 concentram metade delas.
 
-**O que se mede:** composição por camada, convergência, citações entre camadas,
-vínculo com a academia e posição estrutural na rede de citações (PageRank).
-
-**Como navegar:**
-- *Visão geral*: o panorama de todas as organizações do núcleo
-- *Perfil da empresa*: o funil de indicadores para uma organização
-- *Comparar*: até 4 organizações lado a lado
 """)
 
 st.sidebar.markdown("""
