@@ -29,6 +29,8 @@ def ordena(df):
 # rótulo -> (coluna, maior é melhor?)
 METRICAS = {
     "Patentes": ("total", True),
+    "Citações recebidas": ("cit_recebidas", True),
+    "Citações feitas": ("cit_feitas", True),
     "% na camada dominante": ("pct_dom", True),
     "Convergência (× base)": ("conv_razao", True),
     "Cruzamento — feitas (%)": ("cruz_feitas_pct", True),
@@ -38,6 +40,9 @@ METRICAS = {
     "Camadas na elite (≤1%)": ("camadas_elite", True),
     "Posição média na rede (% do topo)": ("rede_media", False),
     "Chips: % do topo": ("chips_pct_topo", False),
+    "Fragmentação em IA (+ componentes)": ("delta_componentes", True),
+    "Isoladas ao remover (IA)": ("isoladas", True),
+    "Autocitação — recebidas (%)": ("auto_recebidas_pct", True),
 }
 
 
@@ -45,9 +50,12 @@ METRICAS = {
 def tabela_mestra():
     """Uma linha por organização do núcleo com as métricas-resumo de todos os níveis."""
     emp, cit, uni, prk = ler("empresas"), ler("citacoes"), ler("universidades"), ler("pagerank")
+    fr, au = ler("fragmentacao"), ler("autocitacao")
     t = cit[cit.camada == "Total"].set_index("org")[["cruz_feitas_pct", "cruz_recebidas_pct"]]
     u = uni[uni.periodo == "Total"].set_index("org")[["pct_feitas", "pct_recebidas"]]
-    m = emp.set_index("org").join([t, u])
+    f = fr[fr.camada == "Modelos de IA"].set_index("org")[["delta_componentes", "isoladas"]]
+    m = emp.set_index("org").join([t, u, f, au.set_index("org")])
+    m[["delta_componentes", "isoladas"]] = m[["delta_componentes", "isoladas"]].fillna(0)
     p = prk[prk.periodo == "2020-25"].pivot(index="org", columns="camada", values="pct_topo").reindex(m.index)[CAMS]
     m["camadas_elite"] = (p <= 1).sum(axis=1)
     m["rede_media"] = p.mean(axis=1)
