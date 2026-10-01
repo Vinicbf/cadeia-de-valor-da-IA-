@@ -1,0 +1,406 @@
+org,camada,delta_componentes,isoladas,nos_rede
+IBM,Infra Física,42,39,9318
+Samsung,Infra Física,48,47,9318
+TSMC,Infra Física,0,0,9318
+Microsoft,Infra Física,10,9,9318
+Intel,Infra Física,27,26,9318
+Micron,Infra Física,5,5,9318
+Canon,Infra Física,8,8,9318
+Google,Infra Física,16,15,9318
+Sony,Infra Física,14,14,9318
+Toshiba,Infra Física,5,5,9318
+Hitachi,Infra Física,15,15,9318
+Fujitsu,Infra Física,5,5,9318
+Amazon,Infra Física,10,10,9318
+Apple,Infra Física,14,13,9318
+NEC,Infra Física,7,7,9318
+SK Hynix,Infra Física,4,4,9318
+Siemens,Infra Física,17,16,9318
+Texas Instruments,Infra Física,7,7,9318
+Mitsubishi Electric,Infra Física,8,7,9318
+Applied Materials,Infra Física,0,0,9318
+Qualcomm,Infra Física,12,10,9318
+Tokyo Electron,Infra Física,0,0,9318
+AT&T,Infra Física,2,1,9318
+HP,Infra Física,11,11,9318
+Panasonic,Infra Física,10,10,9318
+Infineon,Infra Física,2,2,9318
+AMD,Infra Física,3,3,9318
+Fujifilm,Infra Física,1,1,9318
+Meta,Infra Física,4,3,9318
+Oracle,Infra Física,2,2,9318
+Renesas,Infra Física,4,4,9318
+Toyota,Infra Física,5,5,9318
+ASML,Infra Física,0,0,9318
+Huawei,Infra Física,7,6,9318
+Adobe,Infra Física,0,0,9318
+GE,Infra Física,42,41,9318
+Cisco,Infra Física,3,3,9318
+Philips,Infra Física,4,4,9318
+Sumitomo Electric,Infra Física,2,2,9318
+Dell,Infra Física,13,13,9318
+SAP,Infra Física,0,0,9318
+Winbond,Infra Física,0,0,9318
+Semiconductor Energy Lab,Infra Física,2,2,9318
+Tencent,Infra Física,0,0,9318
+LG Electronics,Infra Física,8,8,9318
+GlobalFoundries,Infra Física,0,0,9318
+Motorola,Infra Física,4,4,9318
+VMware,Infra Física,0,0,9318
+Ricoh,Infra Física,2,2,9318
+EMC,Infra Física,2,2,9318
+Seiko Epson,Infra Física,4,4,9318
+Sharp,Infra Física,1,1,9318
+Capital One,Infra Física,0,0,9318
+Nikon,Infra Física,0,0,9318
+STMicroelectronics,Infra Física,0,0,9318
+NVIDIA,Infra Física,4,4,9318
+Xerox,Infra Física,1,1,9318
+Nokia,Infra Física,2,2,9318
+Denso,Infra Física,10,10,9318
+Ericsson,Infra Física,2,2,9318
+SanDisk,Infra Física,2,2,9318
+Bank of America,Infra Física,0,0,9318
+Bosch,Infra Física,11,11,9318
+Kioxia,Infra Física,0,0,9318
+Honda,Infra Física,10,10,9318
+BOE,Infra Física,1,1,9318
+ETRI,Infra Física,2,2,9318
+Verizon,Infra Física,0,0,9318
+Ford,Infra Física,7,7,9318
+General Motors,Infra Física,8,8,9318
+Salesforce,Infra Física,0,0,9318
+Snap,Infra Física,2,2,9318
+Honeywell,Infra Física,10,10,9318
+BlackBerry,Infra Física,3,3,9318
+Baidu,Infra Física,1,1,9318
+Boeing,Infra Física,3,3,9318
+Red Hat,Infra Física,0,0,9318
+Lam Research,Infra Física,0,0,9318
+Accenture,Infra Física,0,0,9318
+Shin-Etsu,Infra Física,0,0,9318
+Broadcom,Infra Física,2,2,9318
+Hon Hai,Infra Física,3,3,9318
+IBM,Chips & Hardware,60,59,9297
+Samsung,Chips & Hardware,38,38,9297
+TSMC,Chips & Hardware,34,34,9297
+Microsoft,Chips & Hardware,2,2,9297
+Intel,Chips & Hardware,20,20,9297
+Micron,Chips & Hardware,17,17,9297
+Canon,Chips & Hardware,15,15,9297
+Google,Chips & Hardware,5,5,9297
+Sony,Chips & Hardware,11,11,9297
+Toshiba,Chips & Hardware,15,15,9297
+Hitachi,Chips & Hardware,12,11,9297
+Fujitsu,Chips & Hardware,14,14,9297
+Amazon,Chips & Hardware,6,6,9297
+Apple,Chips & Hardware,5,5,9297
+NEC,Chips & Hardware,5,5,9297
+SK Hynix,Chips & Hardware,8,8,9297
+Siemens,Chips & Hardware,3,3,9297
+Texas Instruments,Chips & Hardware,12,12,9297
+Mitsubishi Electric,Chips & Hardware,9,9,9297
+Applied Materials,Chips & Hardware,26,26,9297
+Qualcomm,Chips & Hardware,7,7,9297
+Tokyo Electron,Chips & Hardware,14,14,9297
+AT&T,Chips & Hardware,4,3,9297
+HP,Chips & Hardware,8,8,9297
+Panasonic,Chips & Hardware,5,5,9297
+Infineon,Chips & Hardware,10,10,9297
+AMD,Chips & Hardware,8,8,9297
+Fujifilm,Chips & Hardware,2,1,9297
+Meta,Chips & Hardware,3,3,9297
+Oracle,Chips & Hardware,0,0,9297
+Renesas,Chips & Hardware,5,5,9297
+Toyota,Chips & Hardware,3,3,9297
+ASML,Chips & Hardware,13,12,9297
+Huawei,Chips & Hardware,1,1,9297
+Adobe,Chips & Hardware,2,2,9297
+GE,Chips & Hardware,7,7,9297
+Cisco,Chips & Hardware,0,0,9297
+Philips,Chips & Hardware,4,4,9297
+Sumitomo Electric,Chips & Hardware,9,9,9297
+Dell,Chips & Hardware,0,0,9297
+SAP,Chips & Hardware,0,0,9297
+Winbond,Chips & Hardware,6,6,9297
+Semiconductor Energy Lab,Chips & Hardware,5,5,9297
+Tencent,Chips & Hardware,2,2,9297
+LG Electronics,Chips & Hardware,0,0,9297
+GlobalFoundries,Chips & Hardware,2,2,9297
+Motorola,Chips & Hardware,12,12,9297
+VMware,Chips & Hardware,0,0,9297
+Ricoh,Chips & Hardware,3,3,9297
+EMC,Chips & Hardware,0,0,9297
+Seiko Epson,Chips & Hardware,3,3,9297
+Sharp,Chips & Hardware,8,8,9297
+Capital One,Chips & Hardware,1,1,9297
+Nikon,Chips & Hardware,7,7,9297
+STMicroelectronics,Chips & Hardware,5,5,9297
+NVIDIA,Chips & Hardware,2,2,9297
+Xerox,Chips & Hardware,1,1,9297
+Nokia,Chips & Hardware,0,0,9297
+Denso,Chips & Hardware,4,4,9297
+Ericsson,Chips & Hardware,1,1,9297
+SanDisk,Chips & Hardware,4,4,9297
+Bank of America,Chips & Hardware,0,0,9297
+Bosch,Chips & Hardware,1,1,9297
+Kioxia,Chips & Hardware,0,0,9297
+Honda,Chips & Hardware,0,0,9297
+BOE,Chips & Hardware,1,1,9297
+ETRI,Chips & Hardware,3,3,9297
+Verizon,Chips & Hardware,0,0,9297
+Ford,Chips & Hardware,1,1,9297
+General Motors,Chips & Hardware,0,0,9297
+Snap,Chips & Hardware,0,0,9297
+Honeywell,Chips & Hardware,6,6,9297
+BlackBerry,Chips & Hardware,1,1,9297
+Baidu,Chips & Hardware,2,2,9297
+Boeing,Chips & Hardware,1,0,9297
+Red Hat,Chips & Hardware,0,0,9297
+Lam Research,Chips & Hardware,9,9,9297
+Accenture,Chips & Hardware,0,0,9297
+Shin-Etsu,Chips & Hardware,4,4,9297
+Broadcom,Chips & Hardware,2,2,9297
+Hon Hai,Chips & Hardware,1,1,9297
+STATS ChipPAC,Chips & Hardware,1,1,9297
+IBM,Cloud & Compute,129,126,11178
+Samsung,Cloud & Compute,32,32,11178
+TSMC,Cloud & Compute,0,0,11178
+Microsoft,Cloud & Compute,83,78,11178
+Intel,Cloud & Compute,30,27,11178
+Micron,Cloud & Compute,6,6,11178
+Canon,Cloud & Compute,5,5,11178
+Google,Cloud & Compute,64,63,11178
+Sony,Cloud & Compute,16,14,11178
+Toshiba,Cloud & Compute,3,3,11178
+Hitachi,Cloud & Compute,14,13,11178
+Fujitsu,Cloud & Compute,14,13,11178
+Amazon,Cloud & Compute,100,98,11178
+Apple,Cloud & Compute,24,23,11178
+NEC,Cloud & Compute,5,5,11178
+SK Hynix,Cloud & Compute,0,0,11178
+Siemens,Cloud & Compute,8,8,11178
+Texas Instruments,Cloud & Compute,2,2,11178
+Mitsubishi Electric,Cloud & Compute,3,2,11178
+Applied Materials,Cloud & Compute,0,0,11178
+Qualcomm,Cloud & Compute,21,20,11178
+AT&T,Cloud & Compute,27,25,11178
+HP,Cloud & Compute,15,15,11178
+Panasonic,Cloud & Compute,6,6,11178
+Infineon,Cloud & Compute,0,0,11178
+AMD,Cloud & Compute,3,3,11178
+Fujifilm,Cloud & Compute,0,0,11178
+Meta,Cloud & Compute,23,23,11178
+Oracle,Cloud & Compute,36,34,11178
+Renesas,Cloud & Compute,0,0,11178
+Toyota,Cloud & Compute,3,3,11178
+Huawei,Cloud & Compute,9,9,11178
+Adobe,Cloud & Compute,4,4,11178
+GE,Cloud & Compute,5,4,11178
+Cisco,Cloud & Compute,41,37,11178
+Philips,Cloud & Compute,1,1,11178
+Sumitomo Electric,Cloud & Compute,1,1,11178
+Dell,Cloud & Compute,9,8,11178
+SAP,Cloud & Compute,12,12,11178
+Semiconductor Energy Lab,Cloud & Compute,0,0,11178
+Tencent,Cloud & Compute,4,3,11178
+LG Electronics,Cloud & Compute,7,6,11178
+GlobalFoundries,Cloud & Compute,0,0,11178
+Motorola,Cloud & Compute,3,3,11178
+VMware,Cloud & Compute,11,11,11178
+Ricoh,Cloud & Compute,6,6,11178
+EMC,Cloud & Compute,30,30,11178
+Seiko Epson,Cloud & Compute,3,3,11178
+Sharp,Cloud & Compute,2,1,11178
+Capital One,Cloud & Compute,7,7,11178
+Nikon,Cloud & Compute,0,0,11178
+STMicroelectronics,Cloud & Compute,2,1,11178
+NVIDIA,Cloud & Compute,3,3,11178
+Xerox,Cloud & Compute,0,0,11178
+Nokia,Cloud & Compute,15,14,11178
+Denso,Cloud & Compute,0,0,11178
+Ericsson,Cloud & Compute,10,10,11178
+SanDisk,Cloud & Compute,1,1,11178
+Bank of America,Cloud & Compute,15,15,11178
+Bosch,Cloud & Compute,4,4,11178
+Kioxia,Cloud & Compute,0,0,11178
+Honda,Cloud & Compute,1,1,11178
+BOE,Cloud & Compute,2,2,11178
+ETRI,Cloud & Compute,3,3,11178
+Verizon,Cloud & Compute,9,9,11178
+Ford,Cloud & Compute,3,3,11178
+General Motors,Cloud & Compute,7,7,11178
+Salesforce,Cloud & Compute,8,8,11178
+Snap,Cloud & Compute,8,8,11178
+Honeywell,Cloud & Compute,10,9,11178
+BlackBerry,Cloud & Compute,11,11,11178
+Baidu,Cloud & Compute,0,0,11178
+Boeing,Cloud & Compute,7,6,11178
+Red Hat,Cloud & Compute,4,4,11178
+Lam Research,Cloud & Compute,0,0,11178
+Accenture,Cloud & Compute,7,7,11178
+Broadcom,Cloud & Compute,2,2,11178
+Hon Hai,Cloud & Compute,0,0,11178
+IBM,Modelos de IA,124,117,6671
+Samsung,Modelos de IA,35,32,6671
+TSMC,Modelos de IA,0,0,6671
+Microsoft,Modelos de IA,42,41,6671
+Intel,Modelos de IA,11,11,6671
+Micron,Modelos de IA,4,3,6671
+Canon,Modelos de IA,4,4,6671
+Google,Modelos de IA,51,47,6671
+Sony,Modelos de IA,14,13,6671
+Toshiba,Modelos de IA,8,8,6671
+Hitachi,Modelos de IA,7,7,6671
+Fujitsu,Modelos de IA,11,10,6671
+Amazon,Modelos de IA,76,74,6671
+Apple,Modelos de IA,9,8,6671
+NEC,Modelos de IA,5,4,6671
+SK Hynix,Modelos de IA,0,0,6671
+Siemens,Modelos de IA,20,20,6671
+Texas Instruments,Modelos de IA,1,1,6671
+Mitsubishi Electric,Modelos de IA,11,10,6671
+Applied Materials,Modelos de IA,1,1,6671
+Qualcomm,Modelos de IA,11,10,6671
+Tokyo Electron,Modelos de IA,2,2,6671
+AT&T,Modelos de IA,8,8,6671
+HP,Modelos de IA,2,2,6671
+Panasonic,Modelos de IA,0,0,6671
+Infineon,Modelos de IA,0,0,6671
+AMD,Modelos de IA,1,1,6671
+Fujifilm,Modelos de IA,2,2,6671
+Meta,Modelos de IA,16,16,6671
+Oracle,Modelos de IA,14,14,6671
+Renesas,Modelos de IA,0,0,6671
+Toyota,Modelos de IA,4,4,6671
+ASML,Modelos de IA,1,1,6671
+Huawei,Modelos de IA,6,6,6671
+Adobe,Modelos de IA,16,15,6671
+GE,Modelos de IA,19,19,6671
+Cisco,Modelos de IA,12,12,6671
+Philips,Modelos de IA,10,10,6671
+Sumitomo Electric,Modelos de IA,3,2,6671
+Dell,Modelos de IA,8,8,6671
+SAP,Modelos de IA,6,6,6671
+Winbond,Modelos de IA,0,0,6671
+Semiconductor Energy Lab,Modelos de IA,5,4,6671
+Tencent,Modelos de IA,6,6,6671
+LG Electronics,Modelos de IA,3,3,6671
+GlobalFoundries,Modelos de IA,0,0,6671
+Motorola,Modelos de IA,1,1,6671
+VMware,Modelos de IA,4,4,6671
+Ricoh,Modelos de IA,1,1,6671
+EMC,Modelos de IA,4,3,6671
+Seiko Epson,Modelos de IA,1,1,6671
+Sharp,Modelos de IA,0,0,6671
+Capital One,Modelos de IA,22,22,6671
+Nikon,Modelos de IA,0,0,6671
+STMicroelectronics,Modelos de IA,1,1,6671
+NVIDIA,Modelos de IA,9,9,6671
+Xerox,Modelos de IA,4,4,6671
+Nokia,Modelos de IA,1,1,6671
+Denso,Modelos de IA,3,3,6671
+Ericsson,Modelos de IA,1,1,6671
+SanDisk,Modelos de IA,0,0,6671
+Bank of America,Modelos de IA,13,12,6671
+Bosch,Modelos de IA,3,3,6671
+Kioxia,Modelos de IA,1,1,6671
+Honda,Modelos de IA,4,4,6671
+BOE,Modelos de IA,0,0,6671
+ETRI,Modelos de IA,2,2,6671
+Verizon,Modelos de IA,6,5,6671
+Ford,Modelos de IA,6,6,6671
+General Motors,Modelos de IA,1,1,6671
+Salesforce,Modelos de IA,7,6,6671
+Snap,Modelos de IA,7,7,6671
+Honeywell,Modelos de IA,7,6,6671
+BlackBerry,Modelos de IA,2,2,6671
+Baidu,Modelos de IA,9,8,6671
+Boeing,Modelos de IA,11,11,6671
+Red Hat,Modelos de IA,1,1,6671
+Lam Research,Modelos de IA,0,0,6671
+Accenture,Modelos de IA,24,23,6671
+Broadcom,Modelos de IA,0,0,6671
+Hon Hai,Modelos de IA,0,0,6671
+IBM,Software & Aplicação,190,183,29647
+Samsung,Software & Aplicação,65,63,29647
+TSMC,Software & Aplicação,2,2,29647
+Microsoft,Software & Aplicação,117,116,29647
+Intel,Software & Aplicação,19,18,29647
+Micron,Software & Aplicação,2,2,29647
+Canon,Software & Aplicação,39,39,29647
+Google,Software & Aplicação,109,108,29647
+Sony,Software & Aplicação,46,45,29647
+Toshiba,Software & Aplicação,23,23,29647
+Hitachi,Software & Aplicação,25,25,29647
+Fujitsu,Software & Aplicação,21,21,29647
+Amazon,Software & Aplicação,151,144,29647
+Apple,Software & Aplicação,57,57,29647
+NEC,Software & Aplicação,17,16,29647
+SK Hynix,Software & Aplicação,0,0,29647
+Siemens,Software & Aplicação,51,50,29647
+Texas Instruments,Software & Aplicação,2,2,29647
+Mitsubishi Electric,Software & Aplicação,10,10,29647
+Applied Materials,Software & Aplicação,4,4,29647
+Qualcomm,Software & Aplicação,14,13,29647
+Tokyo Electron,Software & Aplicação,1,1,29647
+AT&T,Software & Aplicação,18,17,29647
+HP,Software & Aplicação,31,31,29647
+Panasonic,Software & Aplicação,10,10,29647
+Infineon,Software & Aplicação,0,0,29647
+AMD,Software & Aplicação,6,6,29647
+Fujifilm,Software & Aplicação,21,21,29647
+Meta,Software & Aplicação,33,33,29647
+Oracle,Software & Aplicação,17,15,29647
+Renesas,Software & Aplicação,2,2,29647
+Toyota,Software & Aplicação,14,14,29647
+ASML,Software & Aplicação,2,1,29647
+Huawei,Software & Aplicação,3,3,29647
+Adobe,Software & Aplicação,33,32,29647
+GE,Software & Aplicação,31,31,29647
+Cisco,Software & Aplicação,8,8,29647
+Philips,Software & Aplicação,26,26,29647
+Sumitomo Electric,Software & Aplicação,4,4,29647
+Dell,Software & Aplicação,13,13,29647
+SAP,Software & Aplicação,15,15,29647
+Winbond,Software & Aplicação,1,1,29647
+Semiconductor Energy Lab,Software & Aplicação,0,0,29647
+Tencent,Software & Aplicação,12,12,29647
+LG Electronics,Software & Aplicação,9,9,29647
+GlobalFoundries,Software & Aplicação,2,2,29647
+Motorola,Software & Aplicação,7,7,29647
+VMware,Software & Aplicação,2,2,29647
+Ricoh,Software & Aplicação,14,14,29647
+EMC,Software & Aplicação,9,9,29647
+Seiko Epson,Software & Aplicação,7,7,29647
+Sharp,Software & Aplicação,8,8,29647
+Capital One,Software & Aplicação,29,28,29647
+Nikon,Software & Aplicação,0,0,29647
+STMicroelectronics,Software & Aplicação,0,0,29647
+NVIDIA,Software & Aplicação,26,26,29647
+Xerox,Software & Aplicação,29,27,29647
+Nokia,Software & Aplicação,5,5,29647
+Denso,Software & Aplicação,4,4,29647
+Ericsson,Software & Aplicação,0,0,29647
+SanDisk,Software & Aplicação,0,0,29647
+Bank of America,Software & Aplicação,21,21,29647
+Bosch,Software & Aplicação,3,3,29647
+Kioxia,Software & Aplicação,0,0,29647
+Honda,Software & Aplicação,14,14,29647
+BOE,Software & Aplicação,7,7,29647
+ETRI,Software & Aplicação,7,7,29647
+Verizon,Software & Aplicação,7,7,29647
+Ford,Software & Aplicação,9,9,29647
+General Motors,Software & Aplicação,6,6,29647
+Salesforce,Software & Aplicação,8,8,29647
+Snap,Software & Aplicação,16,16,29647
+Honeywell,Software & Aplicação,16,15,29647
+BlackBerry,Software & Aplicação,2,2,29647
+Baidu,Software & Aplicação,4,4,29647
+Boeing,Software & Aplicação,20,20,29647
+Red Hat,Software & Aplicação,2,1,29647
+Lam Research,Software & Aplicação,0,0,29647
+Accenture,Software & Aplicação,24,23,29647
+Shin-Etsu,Software & Aplicação,0,0,29647
+Broadcom,Software & Aplicação,1,1,29647
+Hon Hai,Software & Aplicação,1,1,29647
