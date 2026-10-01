@@ -335,6 +335,46 @@ prk = pd.concat(linhas)
 prk["pct_topo"] = prk["rank"] / prk.pool * 100
 prk.to_csv(DADOS / "pagerank.csv", index=False)
 
+# ------------------------------------------------------------------ 6b. Extra (fragmentação) e autocitação
+print("6b/7 Extra — fragmentação ao remover cada organização; autocitação")
+# Regra do script 22: rede NÃO direcionada entre organizações, citações internas à camada
+# (as duas patentes na camada, as duas de ANO_MIN_CIT em diante), sem autocitação, todas as organizações.
+Lc = pl[["patent_id", "camada"]].assign(camada=lambda x: x.camada.astype(str))
+Pc = pc[["patent_id", "org"]].drop_duplicates()
+frag = []
+for cam in CAM.values():
+    ids = set(Lc.patent_id[Lc.camada == cam])
+    E2 = D95[D95.citante.isin(ids) & D95.citada.isin(ids)]
+    E2 = (E2.merge(Pc.rename(columns={"patent_id": "citante", "org": "a"}), on="citante")
+            .merge(Pc.rename(columns={"patent_id": "citada", "org": "b"}), on="citada"))
+    E2 = E2.loc[E2.a != E2.b, ["a", "b"]].drop_duplicates()
+    G = nx.from_pandas_edgelist(E2, "a", "b")
+    comp_base = nx.number_connected_components(G)
+    nos = set(G)
+    for org in nucleo:
+        if org not in G:
+            continue
+        isoladas = sum(1 for v in G[org] if G.degree(v) == 1)    # vizinhos cuja única ligação era a empresa
+        comp = nx.number_connected_components(G.subgraph(nos - {org}))
+        frag.append({"org": org, "camada": cam, "delta_componentes": comp - comp_base,
+                     "isoladas": isoladas, "nos_rede": len(nos)})
+    print(f"   {cam}: {len(nos):,} organizações, {G.number_of_edges():,} ligações")
+frag = pd.DataFrame(frag)
+frag.to_csv(DADOS / "fragmentacao.csv", index=False)
+
+
+def auto(ponta, outra, nome):
+    X = D95.merge(PO, left_on=ponta, right_on="patent_id")
+    X["auto"] = X.merge(PO.rename(columns={"patent_id": outra}), on=[outra, "org"],
+                        how="left", indicator=True)["_merge"].eq("both").values
+    g = X.groupby("org").auto
+    return pd.concat([g.mean().mul(100).rename(f"auto_{nome}_pct"),
+                      g.size().rename(f"cit_{nome}")], axis=1)          # citações únicas (sem expandir por camada)
+
+
+autoc = pd.concat([auto("citante", "citada", "feitas"), auto("citada", "citante", "recebidas")], axis=1)
+autoc.rename_axis("org").reset_index().to_csv(DADOS / "autocitacao.csv", index=False)
+
 # ------------------------------------------------------------------ 7. resumo e validação
 print("7/7 resumo")
 cv = pd.DataFrame({"k": cob.index, "cobertura": cob.values * 100})
@@ -346,4 +386,11 @@ json.dump({"patentes": int(pl.patent_id.nunique()), "organizacoes": int(len(orde
 print("\n=== validação (Intel) ===")
 print(f"convergência base {base_conv:.2f}% (esperado 8,40) | Intel {emp.loc['Intel', 'conv_pct']:.2f}% (11,86)")
 print(prk.query("org == 'Intel' and periodo == '2020-25'")[["camada", "rank", "pool"]].to_string(index=False))
+
+print("\n=== fragmentação em Modelos de IA — dossiês: IBM +139/131, Amazon +76/74, Google +50/46, "
+      "Samsung +46/43, Microsoft +41/40, Meta +16/16, Intel +11/11, NVIDIA +9/9, Apple +8/7, TSMC +1/1 ===")
+print(frag[(frag.camada == "Modelos de IA") & frag.org.isin(list(REF))].set_index("org")
+      [["delta_componentes", "isoladas"]].sort_values("delta_componentes", ascending=False).to_string())
+print("\n=== autocitação (% das recebidas que vêm da própria organização) ===")
+print(autoc.reindex(list(REF)).round(1).sort_values("auto_recebidas_pct", ascending=False).to_string())
 print("\nPronto. Rode: streamlit run app.py")
