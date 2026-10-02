@@ -92,7 +92,7 @@ with abas[3]:
                  labels={"n": t("pf_citacoes"), "camada": "", "sentido": ""}, title=t("pf_feitas_recebidas"))
     a.plotly_chart(fig, width="stretch")
     f = flx[flx.org == org].pivot(index="cam_ct", columns="cam_cd", values="n").reindex(index=CAMS, columns=CAMS).fillna(0)
-    f = f.div(f.sum(axis=1).replace(0, pd.NA), axis=0) * 100
+    f = f.div(f.sum(axis=1).replace(0, float("nan")), axis=0) * 100   # camada sem citações fica em branco
     f.index, f.columns = cams(), cams()
     fig = px.imshow(f.astype(float), text_auto=".0f", color_continuous_scale="Blues",
                     labels={"x": t("pf_cam_citada"), "y": t("pf_cam_citante"), "color": "%"}, title=t("pf_fluxo"))
