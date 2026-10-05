@@ -1,0 +1,49 @@
+# Mantém o painel do Streamlit Cloud acordado.
+# A cada 6 horas, abre o painel num navegador automático; se ele estiver
+# dormindo, clica em "Yes, get this app back up!" e espera carregar.
+name: Manter o painel acordado
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"     # a cada 6 horas (horário UTC)
+  workflow_dispatch:           # permite rodar manualmente pela aba Actions
+
+jobs:
+  acordar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar navegador automático
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Visitar o painel
+        run: |
+          python - <<'EOF'
+          from playwright.sync_api import sync_playwright
+
+          URL = "https://cadeia-ia.streamlit.app/"
+
+          with sync_playwright() as p:
+              navegador = p.chromium.launch()
+              pagina = navegador.new_page()
+              pagina.goto(URL, wait_until="domcontentloaded", timeout=120_000)
+              pagina.wait_for_timeout(10_000)
+
+              botao = pagina.get_by_role("button", name="Yes, get this app back up!")
+              if botao.count() > 0:
+                  print("O painel estava dormindo. Acordando...")
+                  botao.click()
+                  pagina.wait_for_timeout(90_000)
+                  print("Pronto: pedido de despertar enviado.")
+              else:
+                  print("O painel já estava acordado.")
+                  pagina.wait_for_timeout(20_000)
+
+              navegador.close()
+          EOF
