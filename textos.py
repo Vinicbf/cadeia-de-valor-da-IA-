@@ -43,8 +43,7 @@ Available at: https://cadeia-ia.streamlit.app/.
     "vg_sobre": (
         """
 ### Sobre o painel
-Este painel usa **patentes como lente** para mapear a cadeia de valor da inteligência artificial,
-da fábrica ao produto final.
+Este painel usa **patentes como lente** para mapear a cadeia de valor da inteligência artificial.
 
 Cada patente é classificada em **cinco camadas**: Infra Física, Chips & Hardware, Cloud & Compute,
 Modelos de IA e Software & Aplicação. Uma mesma patente pode tocar mais de uma camada, o que
@@ -55,8 +54,7 @@ concentram metade delas.
 """,
         """
 ### About this dashboard
-This dashboard uses **patents as a lens** to map the value chain of artificial intelligence,
-from the factory to the final product.
+This dashboard uses **patents as a lens** to map the value chain of artificial intelligence.
 
 Each patent is classified into **five layers**: Physical Infrastructure, Chips & Hardware,
 Cloud & Compute, AI Models and Software & Applications. A single patent may touch more than one
